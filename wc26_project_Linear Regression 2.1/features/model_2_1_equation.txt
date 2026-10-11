@@ -1,1 +1,0 @@
-goal_diff = 0.0999 + 0.0035 (fifa_points_diff) + 0.1810 (log_market_value_diff) + 0.0453 (front3_rating_mean_diff) + 0.0772 (goals_scored_pm_diff) - 0.4840 (goals_conceded_pm_diff) - 0.1287 (points_pm_diff) - 0.1250 (momentum_diff) + 0.8493 (host_diff)

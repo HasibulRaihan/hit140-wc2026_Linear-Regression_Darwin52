@@ -1,7 +1,0 @@
-model,n_variables,MAE,MSE,RMSE,RMSE_normalised,R2_test,R2_train,adj_R2_train
-Baseline (predict training mean),0,1.427,3.8255,1.9559,0.1956,-0.0017,,
-Linear regression (8 variables),8,1.2421,2.2666,1.5055,0.1506,0.4065,0.563,0.4971
-Using RAW squad value (no log),8,1.2664,2.388,1.5453,0.1545,0.3747,0.5607,0.4944
-Collinearity step: removed front3_rating_mean_diff,7,1.2077,2.153,1.4673,0.1467,0.4363,0.5566,0.4991
-z-score standardised,8,1.2421,2.2666,1.5055,0.1506,0.4065,0.563,0.4971
-Yeo-Johnson transformed,8,1.2568,2.2916,1.5138,0.1514,0.4,0.5656,0.5

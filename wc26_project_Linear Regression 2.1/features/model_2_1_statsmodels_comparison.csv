@@ -1,6 +1,0 @@
-model,R2,adj_R2,F_pvalue,AIC
-1 original (8 variables),0.5216,0.4813,0.0,381.6219
-2 raw squad value instead of log,0.5018,0.4598,0.0,385.8533
-3 collinearity: removed front3_rating_mean_diff,0.5215,0.4866,0.0,379.6613
-4 z-score standardised,0.5216,0.4813,0.0,381.6219
-5 Yeo-Johnson,0.5218,0.4815,0.0,381.585
