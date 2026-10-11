@@ -1,0 +1,5 @@
+check,n,RMSE,MAE,R2,winner_accuracy
+A) fitted on all 104,104,1.39,1.127,0.522,0.875
+B) leave-one-out (all 104),104,1.542,1.243,0.412,0.838
+C) group(72) -> knockout(32),32,1.328,1.046,0.29,0.786
+baseline: always predict group mean,32,1.627,1.344,-0.066,0.571

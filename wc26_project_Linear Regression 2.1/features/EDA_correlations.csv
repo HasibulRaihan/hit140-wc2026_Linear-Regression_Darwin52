@@ -1,0 +1,9 @@
+,pearson_r_with_goal_diff
+fifa_points_diff,0.6449554196501306
+log_market_value_diff,0.6770971343488494
+front3_rating_mean_diff,0.5887836429139813
+goals_scored_pm_diff,0.4709440406490992
+goals_conceded_pm_diff,-0.47160221243140504
+points_pm_diff,0.5653318337417895
+momentum_diff,0.34111032185095985
+host_diff,0.12297549457444516
