@@ -1,0 +1,9 @@
+variable,VIF
+own_mean_squad_age,1.1195885710266793
+opp_mean_squad_age,1.1106725278831207
+own_big5_share,1.5460844866519687
+opp_big5_share,1.3048629143011528
+own_goals_per_match_before,1.5447173958792213
+opp_conceded_per_match_before,1.1408352076144521
+days_rest,1.2204359002690377
+is_knockout,1.3932493331914086

@@ -1,0 +1,6 @@
+assumption,test,statistic,p_value,verdict
+Normality of residuals,Shapiro-Wilk,0.9723,0.000403,violated
+Homoscedasticity,Breusch-Pagan,,0.002147,violated
+Independence of errors,Durbin-Watson,2.0355,,"near 2, but the two rows of a match are paired"
+Target is continuous,negative fitted values,2.0,,"violated - goals are counts, OLS can predict below zero"
+Equidispersion (for Poisson),variance / mean,1.3112,,overdispersed

@@ -1,0 +1,33 @@
+ALGORITHM COMPARISON - RECOMMENDATION
+==========================================================================
+
+Validation: 5-fold CV grouped by match, 20 repeats.
+
+Best by RMSE     : 7 Random Forest  (RMSE 1.2354, MAE 0.9349, R2 +0.2099)
+Unit's OLS model : RMSE 1.2592, MAE 0.9866, R2 +0.1792
+Mean baseline    : RMSE 1.3964
+Best vs baseline : 11.5% better
+Best vs OLS      : +1.9%  (paired p = 0.0001)
+Spread across all eight non-baseline methods: 0.049 RMSE (4% of baseline error)
+
+Curvature test   : 1 of 4 quadratic terms significant at an uncorrected 5%,
+                   0 surviving Bonferroni (p < 0.0125); inverted-U near 27.4
+Dispersion       : conditional 0.943, C-T alpha -0.041 (p = 0.448)
+
+RECOMMENDATION
+--------------------------------------------------------------------------
+Lowest error      : Random Forest, 1.9% ahead of OLS. The curvature test
+                    does not support shape as the reason, so the edge is shrinkage:
+                    averaging shallow trees damps extremes and cannot extrapolate,
+                    which is also why it never predicts a negative count. No
+                    coefficient per variable, which this report needs.
+Best interpretable: Poisson GLM, 1.2561 RMSE - within 0.021 of the best.
+                    Coefficient per variable, log link, non-negative predictions.
+For the report    : OLS, as the brief requires. It sits 1.7% of the baseline error
+                    behind the best method and is the model interpreted here.
+
+WIDER FINDING
+--------------------------------------------------------------------------
+All eight non-baseline methods land between 1.235 and 1.285 RMSE.
+The ceiling is set by the data, not the model: pre-match information explains about
+a quarter of the variation in goals scored and the rest is largely irreducible.

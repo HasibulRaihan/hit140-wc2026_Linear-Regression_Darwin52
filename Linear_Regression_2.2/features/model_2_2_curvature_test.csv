@@ -1,0 +1,5 @@
+variable,quadratic_p,sig_at_5pct,sig_after_bonferroni,adj_r2_before,adj_r2_after
+own_mean_squad_age,0.8711,False,False,0.2448,0.2411
+opp_mean_squad_age,0.0173,True,False,0.2448,0.2624
+own_big5_share,0.9929,False,False,0.2448,0.241
+own_goals_per_match_before,0.9338,False,False,0.2448,0.241

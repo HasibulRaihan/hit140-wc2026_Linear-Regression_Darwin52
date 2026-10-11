@@ -1,0 +1,1 @@
+goals_scored = -1.4541 + 0.0829 (own_mean_squad_age) + 0.0062 (opp_mean_squad_age) + 2.5083 (own_big5_share) - 1.1926 (opp_big5_share) - 0.0632 (own_goals_per_match_before) + 0.1948 (opp_conceded_per_match_before) - 0.0225 (days_rest) - 0.4414 (is_knockout)

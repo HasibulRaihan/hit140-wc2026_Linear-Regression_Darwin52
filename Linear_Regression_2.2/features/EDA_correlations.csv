@@ -1,0 +1,9 @@
+,pearson_r_with_goals_scored
+own_mean_squad_age,-0.10970598736779229
+opp_mean_squad_age,0.006839909304112855
+own_big5_share,0.4136447683642109
+opp_big5_share,-0.2356437317481514
+own_goals_per_match_before,0.05816043609865232
+opp_conceded_per_match_before,0.14816645353591307
+days_rest,-0.09893408759393679
+is_knockout,-0.013257860557433008

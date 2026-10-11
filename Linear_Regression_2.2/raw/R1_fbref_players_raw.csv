@@ -1,0 +1,1043 @@
+--- When using SR data, please cite us and provide a link and/or a mention.
+
+,,,,,,,Playing Time,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,,-additional
+Rk,Player,Pos,Squad,Age,Club,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,-9999
+1,Brenden Aaronson,MF,us USA,25,1.eng Leeds United,2000,1,1,76,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5bc43860
+2,Thelo Aasgaard,MF,no Norway,24,1.sct Rangers,2002,1,1,90,1.0,1,0,1,1,0,0,0,0,1.00,0.00,1.00,1.00,1.00,Matches,c88a28b9
+3,Hamza Abdelkarim,FW,eg Egypt,18,4.es Barcelona B,2008,4,0,60,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,057d8f12
+4,Hossam Abdelmaguid,DF,eg Egypt,25,1.eg Zamalek SC,2001,2,0,59,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,accbfc94
+5,Mohamed Abdelmonem,DF,eg Egypt,27,1.fr Nice,1999,2,1,14,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,bff15d74
+6,Ali Abdi,DF,tn Tunisia,32,1.fr Nice,1993,3,3,269,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ad7cdb35
+7,Saud Abdulhamid,DF,sa Saudi Arabia,26,1.fr Lens,1999,3,3,269,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,caa254e4
+8,Abdulla Abdullaev,DF,uz Uzbekistan,28,1.ae Dibba Al Fujairah,1997,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,03053fbf
+9,Yusuf Abdurisag,FW,qa Qatar,26,1.qa Al-Wakrah,1999,2,2,98,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,13c8f40b
+10,Husam Abu Dahab,DF,jo Jordan,26,1.kw Al-Salmiya SC,2000,2,2,178,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,300aaeb6
+11,Mohammad Abu Hasheesh,DF,jo Jordan,31,1.iq Al-Karma,1995,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,72c2fa7a
+12,Mohannad Abu Taha,DF,jo Jordan,23,1.iq Al-Quwa Al-Jawiya,2003,3,3,264,2.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,5c4bac6c
+13,Mo Abualnadi,DF,jo Jordan,25,1.my Selangor FA,2001,1,1,71,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4bff62e4
+14,Yazeed Abulaila,GK,jo Jordan,33,1.jo Al-Hussein SC,1993,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5d11fc17
+15,Mahmoud Abunada,GK,qa Qatar,26,1.qa Al Rayyan SC,2000,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,27e7e545
+16,Elias Achouri,FWMF,tn Tunisia,27,1.dk FC Copenhagen,1999,3,0,43,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4dd2a0be
+17,Ché Adams,FW,sct Scotland,29,1.it Torino,1996,3,2,145,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f2bf1b0f
+18,Jayden Adams,MF,za South Africa,25,1.za Sundowns,2001,3,2,116,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,259affab
+19,Tyler Adams,MF,us USA,27,1.eng Bournemouth,1999,4,4,341,3.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2b09d998
+20,Ricardo Adé,DF,ht Haiti,36,1.ec LDU Quito,1990,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a9ee5e81
+21,Ibrahim Adel,MF,eg Egypt,25,1.dk Nordsjælland,2001,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4869216e
+22,Simon Adingra,FWMF,ci Côte d'Ivoire,24,1.fr Monaco,2002,1,0,16,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4dcec659
+23,Jonas Adjetey,DF,gh Ghana,22,1.de Wolfsburg,2003,3,3,225,2.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,bdbf78cd
+24,Michel Aebischer,MFFW,ch Switzerland,29,1.it Pisa,1997,4,2,156,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f9c927de
+25,Akram Afif,FWMF,qa Qatar,29,1.qa Al Sadd,1996,3,3,238,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,fd53d9e7
+26,Emmanuel Agbadou,DF,ci Côte d'Ivoire,28,1.tr Beşiktaş,1997,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,75f1ed80
+27,Rodrigo Aguirre,FW,uy Uruguay,31,1.mx América,1994,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b5691f5d
+28,Ali Ahmed,MF,ca Canada,25,2.eng Norwich City,2000,4,3,234,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,540a5be1
+29,Homam Ahmed,DF,qa Qatar,26,2.es Cultural Leonesa,1999,2,2,122,1.4,0,1,1,0,0,0,0,1,0.00,0.74,0.74,0.00,0.74,Matches,a62fa158
+30,Rayan Aït-Nouri,DF,dz Algeria,25,1.eng Manchester City,2001,4,3,284,3.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,9b398aea
+31,Kristoffer Ajer,DF,no Norway,28,1.eng Brentford,1998,5,5,480,5.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,a8c0acb7
+32,Manuel Akanji,DF,ch Switzerland,30,1.it Inter,1995,6,6,600,6.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,89ac64a6
+33,Nathan Aké,DF,nl Netherlands,31,1.eng Manchester City,1995,3,2,170,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,eaeca114
+34,Yunus Akgün,MF,tr Türkiye,25,1.tr Galatasaray,2000,2,1,88,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1453e3cf
+35,Maghnes Akliouche,MF,fr France,24,1.fr Monaco,2002,1,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b625b241
+36,Kerem Aktürkoğlu,FW,tr Türkiye,27,1.tr Fenerbahçe,1998,2,2,129,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f28659fb
+37,Ahmed Alaaeldin,FW,qa Qatar,33,1.qa Al Rayyan SC,1993,2,0,43,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,74fbbb3c
+38,David Alaba,DF,at Austria,33,1.es Real Madrid,1992,4,4,275,3.1,0,1,1,0,0,0,0,0,0.00,0.33,0.33,0.00,0.33,Matches,05439de2
+39,Kerim Alajbegović,MF,ba Bosnia–Herz,18,1.at RB Salzburg,2007,4,3,277,3.1,1,0,1,1,0,0,0,0,0.32,0.00,0.32,0.32,0.32,Matches,f3d9291e
+40,Jordy Alcivar,MF,ec Ecuador,26,1.ec Independiente,1999,1,1,45,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,6e98c19f
+41,Omar Alderete,DF,py Paraguay,29,1.eng Sunderland,1996,4,4,320,3.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,bb08bce9
+42,Almoez Ali,FW,qa Qatar,29,1.qa Al Duhail SC,1996,1,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,bae045a9
+43,Hussein Ali,DF,iq Iraq,24,1.pl Pogoń Szczecin,2002,2,2,162,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b8a919ad
+44,Mohanad Ali,FW,iq Iraq,25,1.ae Dibba Al Fujairah,2000,1,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f929049b
+45,Taha Ali,FWMF,se Sweden,27,1.se Malmö,1998,2,0,37,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,da4b8a4e
+46,Khojiakbar Alijonov,MF,uz Uzbekistan,29,1.uz Pakhtakor Tashkent FK,1997,2,1,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e53cbd7a
+47,Ali Alipour,FW,ir IR Iran,30,1.ir Persepolis,1995,1,0,38,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,488ee64c
+48,Alisson,GK,br Brazil,33,1.eng Liverpool,1992,5,5,450,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,7a2e46a8
+49,Thiago Almada,MF,ar Argentina,25,1.es Atlético Madrid,2001,5,3,241,2.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,27f33438
+50,Miguel Almirón,MFFW,py Paraguay,32,1.us Atlanta Utd,1994,4,4,282,3.1,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,862a1c15
+51,Júnior Alonso,DF,py Paraguay,33,1.br Atlético Mineiro,1993,5,4,390,4.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,b18a3023
+52,Barış Alper Yılmaz,MFFW,tr Türkiye,26,1.tr Galatasaray,2000,3,2,179,2.0,1,1,2,1,0,0,0,0,0.50,0.50,1.01,0.50,1.01,Matches,414b2ce4
+53,Roberto Alvarado,FWMF,mx Mexico,27,1.mx Guadalajara,1998,5,5,428,4.8,0,3,3,0,0,0,0,0,0.00,0.63,0.63,0.00,0.63,Matches,ff871e14
+54,Edson Álvarez,MFDF,mx Mexico,28,1.eng West Ham,1997,4,2,240,2.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,8b3ab7ad
+55,Julián Álvarez,FW,ar Argentina,26,1.es Atlético Madrid,2000,8,5,602,6.7,1,0,1,1,0,0,0,0,0.15,0.00,0.15,0.15,0.15,Matches,15ab5a2b
+56,Ayoube Amaimouni,MF,ma Morocco,21,1.de Frankfurt,2004,2,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c5a07a5e
+57,Zeki Amdouni,FWMF,ch Switzerland,25,1.eng Burnley,2000,4,0,73,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2ee5b0c9
+58,Michael Amir Murillo,DFMF,pa Panama,30,1.tr Beşiktaş,1996,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,349cae8f
+59,Nadiem Amiri,MF,de Germany,29,1.de Mainz 05,1996,2,0,42,0.5,0,1,1,0,0,0,0,0,0.00,2.14,2.14,0.00,2.14,Matches,555d5edd
+60,Amir Al Ammari,MF,iq Iraq,28,1.pl Cracovia,1997,3,3,247,2.7,0,1,1,0,0,0,2,0,0.00,0.36,0.36,0.00,0.36,Matches,9f65be73
+61,Azizbek Amonov,FW,uz Uzbekistan,28,1.uz FK Bukhara Nurafshon,1997,1,0,14,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f487314f
+62,Mohamed Amoura,FWMF,dz Algeria,26,1.de Wolfsburg,2000,1,0,27,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6597f8b6
+63,Sofyan Amrabat,MF,ma Morocco,29,1.es Real Betis,1996,3,1,147,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5a2cb25d
+64,Abdulelah Al-Amri,DF,sa Saudi Arabia,29,,1997,3,3,239,2.7,1,0,1,1,0,0,1,0,0.38,0.00,0.38,0.38,0.38,Matches,fd0affe3
+65,Youssef Amyn,MF,iq Iraq,22,1.cy AEK Larnaca,2003,1,0,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,10c12f22
+66,Elliot Anderson,MF,eng England,23,1.eng Nottingham,2002,8,7,632,7.0,0,1,1,0,0,0,1,0,0.00,0.14,0.14,0.00,0.14,Matches,de31038e
+67,Andrés Andrade Cedeño,DF,pa Panama,27,1.at LASK,1998,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,6ea23758
+68,Fredrik André Bjørkan,DF,no Norway,27,1.no Bodø/Glimt,1998,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,3724baa1
+69,Nilson Angulo,MF,ec Ecuador,22,1.eng Sunderland,2003,4,2,218,2.4,1,0,1,1,0,0,0,0,0.41,0.00,0.41,0.41,0.41,Matches,a9b9d89c
+70,Waldemar Anton,DFMF,de Germany,29,1.de Dortmund,1996,2,0,50,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5e66fa06
+71,Jeremy Antonisse,FWMF,cw Curaçao,24,1.gr AE Kifisia,2002,2,0,75,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6011e63a
+72,Houssem Aouar,MF,dz Algeria,27,1.sa Al-Ittihad,1998,3,2,173,1.9,0,2,2,0,0,0,0,0,0.00,1.04,1.04,0.00,1.04,Matches,a5db0bec
+73,Oswin Appollis,MFFW,za South Africa,24,1.za Orlando Pirates,2001,4,3,255,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e8933eb0
+74,Yazan Al-Arab,DF,jo Jordan,30,1.kr FC Seoul,1996,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,32878a09
+75,Maxi Araújo,FWMF,uy Uruguay,26,1.pt Sporting CP,2000,3,3,250,2.8,2,1,3,2,0,0,0,0,0.72,0.36,1.08,0.72,1.08,Matches,f9ab3f4a
+76,Tomás Araújo,DF,pt Portugal,24,1.pt Benfica,2002,1,1,90,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0fa11d7d
+77,Telmo Arcanjo,MF,cv Cabo Verde,24,1.pt Vit. Guimarães,2001,2,1,57,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c692cef2
+78,Álex Arce,FW,py Paraguay,30,1.ar Ind. Rivadavia,1995,2,0,53,0.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,10411db2
+79,Carlens Arcus,MFDF,ht Haiti,29,1.fr Angers,1996,3,2,146,1.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,5e837126
+80,Max Arfsten,MF,us USA,25,1.us Columbus Crew,2001,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,668f881e
+81,Jhon Arias,MF,co Colombia,28,1.br Palmeiras,1997,5,5,377,4.2,1,0,1,1,0,0,1,0,0.24,0.00,0.24,0.24,0.24,Matches,86d96066
+82,Santiago Arias,DF,co Colombia,34,1.ar Independiente,1992,1,1,86,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,fdd60087
+83,Marko Arnautović,FW,at Austria,37,1.rs Red Star,1989,4,1,144,1.6,2,0,2,1,1,1,1,0,1.25,0.00,1.25,0.62,0.62,Matches,00459419
+84,Benjamin Asare,GK,gh Ghana,33,1.gh Accra Hearts of Oak,1992,3,2,225,2.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4bb65492
+85,Emam Ashour,MF,eg Egypt,28,1.eg Al Ahly,1998,5,5,362,4.0,2,0,2,2,0,0,0,0,0.50,0.00,0.50,0.50,0.50,Matches,31b7d437
+86,Rustam Ashurmatov,DF,uz Uzbekistan,29,1.ir Esteghlal,1996,3,3,256,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a0ecd397
+87,Lawrence Ati-Zigi,GK,gh Ghana,29,1.ch St. Gallen,1996,2,2,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a12402c3
+88,Marwan Attia,MF,eg Egypt,27,1.eg Al Ahly,1998,5,4,434,4.8,0,1,1,0,0,0,2,0,0.00,0.21,0.21,0.00,0.21,Matches,1ea3d7ec
+89,Fredrik Aursnes,MFDF,no Norway,30,1.pt Benfica,1995,6,3,304,3.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f0677ed7
+90,Gabriel Ávalos,FW,py Paraguay,35,1.ar Independiente,1990,4,2,141,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b6781b67
+91,Yasin Ayari,MF,se Sweden,22,1.eng Brighton,2003,4,4,339,3.8,2,0,2,2,0,0,1,0,0.53,0.00,0.53,0.53,0.53,Matches,f173303a
+92,Oğuz Aydın,DF,tr Türkiye,25,1.tr Fenerbahçe,2000,1,1,89,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a7b98226
+93,Jordan Ayew,FW,gh Ghana,34,2.eng Leicester City,1991,4,4,300,3.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,da052c14
+94,Kaan Ayhan,DFMF,tr Türkiye,31,1.tr Galatasaray,1994,1,0,3,0.0,1,0,1,1,0,0,0,0,30.00,0.00,30.00,30.00,30.00,Matches,2200181e
+95,Neil El Aynaoui,MF,ma Morocco,24,1.it Roma,2001,6,6,562,6.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,17e1261b
+96,Ali Azaizeh,MF,jo Jordan,22,1.sa Al-Shabab,2004,3,1,54,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,3a46ac67
+97,Juninho Bacuna,MF,cw Curaçao,28,1.nl Volendam,1997,3,3,254,2.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,aaf1bf05
+98,Leandro Bacuna,MF,cw Curaçao,34,2.tr 76 Iğdır Belediyespor,1991,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,9dc69d38
+99,Álex Baena,MFFW,es Spain,24,1.es Atlético Madrid,2001,7,7,481,5.3,1,1,2,1,0,0,1,0,0.19,0.19,0.37,0.19,0.37,Matches,518f2234
+100,Esmir Bajraktarevic,MF,ba Bosnia–Herz,21,1.nl PSV,2005,4,2,230,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,dff24174
+101,Cédric Bakambu,FW,cd Congo DR,35,1.es Real Betis,1991,3,3,190,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0af4dcf0
+102,Fabián Balbuena,DF,py Paraguay,34,1.br Grêmio,1991,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,3626f7d9
+103,Folarin Balogun,FW,us USA,24,1.fr Monaco,2001,4,4,312,3.5,3,0,3,3,0,0,1,1,0.87,0.00,0.87,0.87,0.87,Matches,31822f8c
+104,Simon Banza,FWMF,cd Congo DR,29,1.ae Al Jazira Club,1996,2,0,40,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,be47b750
+105,Yoel Bárcenas,MF,pa Panama,32,1.mx Mazatlán,1993,3,3,249,2.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,b39849eb
+106,Valentín Barco,DFMF,ar Argentina,21,1.fr Strasbourg,2004,1,0,20,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b9f282ec
+107,Bradley Barcola,MF,fr France,23,1.fr PSG,2002,8,4,384,4.3,3,1,4,3,0,0,1,0,0.70,0.23,0.94,0.70,0.94,Matches,a0d55a09
+108,Abdülkerim Bardakcı,DF,tr Türkiye,31,1.tr Galatasaray,1994,3,3,265,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5d9cff53
+109,Ivan Bašić,MF,ba Bosnia–Herz,24,1.kz FC Astana,2002,3,2,179,2.0,0,1,1,0,0,0,0,0,0.00,0.50,0.50,0.00,0.50,Matches,9b0a0d51
+110,Ahmed Basil,GK,iq Iraq,29,1.iq Al-Shorta,1996,2,2,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,3bf9e631
+111,Martin Baturina,MFFW,hr Croatia,23,1.it Como,2003,4,4,321,3.6,1,0,1,1,0,0,0,0,0.28,0.00,0.28,0.28,0.28,Matches,d1eda5f0
+112,Ibrahim Bayesh,MFFW,iq Iraq,26,1.ae Al Dhafra SCC,2000,3,3,235,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2f2003ba
+113,Samed Baždar,FW,ba Bosnia–Herz,22,1.de Gladbach,2004,1,0,29,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e59c9d0d
+114,Riechedly Bazoer,DF,cw Curaçao,29,1.tr Konyaspor,1996,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,da59a197
+115,Patrick Beach,GK,au Australia,22,1.au Melb City,2003,4,4,388,4.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,3cc64624
+116,Aziz Behich,MF,au Australia,35,1.au Melb City,1990,3,2,217,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b6867b96
+117,Maximilian Beier,FWMF,de Germany,23,1.de Dortmund,2002,1,0,27,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5db45ee5
+118,Alireza Beiranvand,GK,ir IR Iran,33,1.ir Tractor,1992,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6ca0b04a
+119,Zineddine Belaïd,DF,dz Algeria,27,1.dz JS Kabylie,1999,2,0,25,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b2562589
+120,Rafik Belghali,DF,dz Algeria,24,1.it Hellas Verona,2002,4,4,331,3.7,1,0,1,1,0,0,0,0,0.27,0.00,0.27,0.27,0.27,Matches,0abcb968
+121,Joe Bell,MF,nz New Zealand,27,1.no Viking,1999,3,3,243,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,7825847e
+122,Jean-Ricner Bellegarde,MF,ht Haiti,27,1.eng Wolves,1998,3,3,260,2.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,10f0fdd3
+123,Jude Bellingham,MF,eng England,22,1.es Real Madrid,2003,8,7,614,6.8,7,1,8,7,0,0,1,0,1.03,0.15,1.17,1.03,1.17,Matches,57d88cf9
+124,Mortadha Ben Ouanes,DFMF,tn Tunisia,31,1.tr Kasımpaşa,1994,1,0,23,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1798891a
+125,Anis Ben Slimane,MFFW,tn Tunisia,25,2.eng Norwich City,2001,3,3,240,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,9ade9ce1
+126,Oussama Benbot,GK,dz Algeria,31,1.dz USM Alger,1994,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,dcae580c
+127,Nadhir Benbouali,FW,dz Algeria,26,1.hu Győr,2000,1,0,45,0.5,1,0,1,1,0,0,0,0,2.00,0.00,2.00,2.00,2.00,Matches,cd25f2b3
+128,Gilson Benchimol,FW,cv Cabo Verde,24,1.ru Akron Tolyatti,2001,2,1,78,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,eae26fce
+129,Ramy Bensebaini,DF,dz Algeria,31,1.de Dortmund,1995,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,378825c7
+130,Nabil Bentaleb,MF,dz Algeria,31,1.fr Lille,1994,4,3,285,3.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,3189f61a
+131,Rodrigo Bentancur,MF,uy Uruguay,28,1.eng Tottenham,1997,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,3b8674e6
+132,Patrick Berg,MF,no Norway,28,1.no Bodø/Glimt,1997,6,4,445,4.9,0,2,2,0,0,0,1,0,0.00,0.40,0.40,0.00,0.40,Matches,e4114f5d
+133,Sander Berge,MF,no Norway,28,1.eng Fulham,1998,5,5,480,5.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d0b6129f
+134,Lucas Bergvall,MF,se Sweden,20,1.eng Tottenham,2006,4,1,181,2.0,0,1,1,0,0,0,1,0,0.00,0.50,0.50,0.00,0.50,Matches,a109e5c8
+135,Sebastian Berhalter,MF,us USA,25,1.us Vancouver,2001,5,1,187,2.1,1,1,2,1,0,0,1,0,0.48,0.48,0.96,0.48,0.96,Matches,f33ee427
+136,Alexander Bernhardsson,MF,se Sweden,27,2.de Holstein Kiel,1998,3,3,217,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,dea1d183
+137,Tyler Bindon,DF,nz New Zealand,21,2.eng Sheffield United,2005,3,1,97,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,3575e5eb
+138,César Blackman,MFDF,pa Panama,28,1.sk Slovan Bratislava,1998,2,2,178,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,c2b11050
+139,Damián Bobadilla,MF,py Paraguay,24,1.br São Paulo,2001,4,2,189,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ad7d6437
+140,Oscar Bobb,FW,no Norway,22,1.eng Fulham,2003,6,1,225,2.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,eed2427e
+141,Moïse Bombito,DF,ca Canada,26,1.fr Nice,2000,3,2,193,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c2f23fc8
+142,Theo Bongonda,FWMF,cd Congo DR,30,1.ru Spartak Moscow,1995,2,0,34,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0da6a13e
+143,Ange-Yoan Bonny,FW,ci Côte d'Ivoire,22,1.it Inter,2003,4,3,234,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,64629ba4
+144,Jordy Bos,MFDF,au Australia,23,1.nl Feyenoord,2002,4,4,308,3.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,8070a9fd
+145,Ayyoub Bouaddi,MF,ma Morocco,18,1.fr Lille,2007,5,5,381,4.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8006228f
+146,Hicham Boudaoui,MF,dz Algeria,26,1.fr Nice,1999,3,2,128,1.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,f9d5908e
+147,Karim Boudiaf,MF,qa Qatar,35,1.qa Al Duhail SC,1990,2,1,102,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a38f33fd
+148,Adil Boulbina,FW,dz Algeria,23,1.qa Al Duhail SC,2003,2,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,12f7f264
+149,Yassine Bounou,GK,ma Morocco,35,1.sa Al-Hilal,1991,6,6,570,6.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f6798fc3
+150,Nawaf Boushal,DF,sa Saudi Arabia,26,1.sa Al-Nassr,1999,2,1,91,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,7dc1c2c6
+151,Michael Boxall,DF,nz New Zealand,37,1.us Minnesota Utd,1988,3,2,207,2.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6bfa0d3a
+152,Sultan Al-Brake,DF,qa Qatar,30,1.qa Al Duhail SC,1996,2,1,141,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,fcaa2400
+153,Joshua Brenet,DF,cw Curaçao,32,1.tr Kayserispor,1994,2,2,179,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2b5527c4
+154,Brian Brobbey,FW,nl Netherlands,24,1.eng Sunderland,2002,4,3,223,2.5,3,0,3,3,0,0,0,0,1.21,0.00,1.21,1.21,1.21,Matches,4c184730
+155,Dylan Bronn,DF,tn Tunisia,30,1.ch Servette FC,1995,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,edd81e2a
+156,Nathaniel Brown,DF,de Germany,22,1.de Frankfurt,2003,3,3,282,3.1,1,1,2,1,0,0,0,0,0.32,0.32,0.64,0.32,0.64,Matches,abc79c47
+157,Tajon Buchanan,MF,ca Canada,27,1.es Villarreal,1999,5,5,376,4.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,3aca6420
+158,Ante Budimir,FW,hr Croatia,34,1.es Osasuna,1991,3,2,155,1.7,1,0,1,1,0,0,0,0,0.58,0.00,0.58,0.58,0.58,Matches,8f3565b3
+159,Firas Al-Buraikan,FW,sa Saudi Arabia,26,1.sa Al-Ahli,2000,3,3,238,2.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,ac717a23
+160,Cameron Burgess,DF,au Australia,30,2.eng Swansea City,1995,2,2,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,da61ca98
+161,Dan Burn,DF,eng England,34,1.eng Newcastle,1992,3,0,35,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b2d31e83
+162,Dženis Burnić,MF,ba Bosnia–Herz,28,2.de Karlsruher,1998,2,0,16,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0dabaf14
+163,Gustavo Caballero,FWMF,py Paraguay,24,2.eng Portsmouth,2001,2,0,96,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,90a38ca7
+164,Jovane Cabral,FW,cv Cabo Verde,28,1.pt Estrela,1998,2,2,139,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e34e086c
+165,Liberato Cacace,DF,nz New Zealand,25,2.eng Wrexham,2000,3,3,220,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,dd86e8e4
+166,Juan Cáceres,DF,py Paraguay,26,1.ru Dynamo Moskva,2000,5,5,436,4.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,db887bdf
+167,Sebastián Cáceres,DF,uy Uruguay,26,1.mx América,1999,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,7091c68e
+168,Jordy Caicedo,FW,ec Ecuador,28,1.ar Huracán,1997,3,0,20,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,7fcb27d8
+169,Moisés Caicedo,MF,ec Ecuador,24,1.eng Chelsea,2001,4,4,360,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,16264a81
+170,Uğurcan Çakır,GK,tr Türkiye,30,1.tr Galatasaray,1996,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f63a8347
+171,Hakan Çalhanoğlu,MF,tr Türkiye,32,1.it Inter,1994,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,cd0fa27b
+172,Lamine Camara,MF,sn Senegal,22,1.fr Monaco,2004,4,3,248,2.8,0,1,1,0,0,0,1,0,0.00,0.36,0.36,0.00,0.36,Matches,19c2ffa4
+173,Jaminton Campaz,FWMF,co Colombia,26,1.ar Rosario Central,2000,3,0,75,0.8,1,0,1,1,0,0,0,0,1.20,0.00,1.20,1.20,1.20,Matches,8d5ceef2
+174,İrfan Can Kahveci,MF,tr Türkiye,30,1.tr Kasımpaşa,1995,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d2800f47
+175,José Canale,DF,py Paraguay,29,1.ar Lanús,1996,4,1,161,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,97d24b73
+176,João Cancelo,DF,pt Portugal,32,1.es Barcelona,1994,5,5,312,3.5,0,1,1,0,0,0,0,0,0.00,0.29,0.29,0.00,0.29,Matches,bd6351cd
+177,Agustín Canobbio,FW,uy Uruguay,27,1.br Fluminense,1998,3,2,224,2.5,1,0,1,1,0,0,0,1,0.40,0.00,0.40,0.40,0.40,Matches,4f5a2f38
+178,Casemiro,MF,br Brazil,34,1.eng Manchester Utd,1992,5,5,379,4.2,1,0,1,1,0,0,2,0,0.24,0.00,0.24,0.24,0.24,Matches,4d224fe8
+179,Josué Casimir,MF,ht Haiti,24,1.fr Auxerre,2001,3,2,182,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,481f76cf
+180,Timothy Castagne,DF,be Belgium,30,1.eng Fulham,1995,6,5,478,5.3,0,1,1,0,0,0,1,0,0.00,0.19,0.19,0.00,0.19,Matches,197640fd
+181,Kevin Castaño,MF,co Colombia,25,1.ar River Plate,2000,2,0,16,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c393c3d9
+182,Jens Castrop,MF,kr Korea Republic,22,1.de Gladbach,2003,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,03fee7de
+183,Zeki Çelik,DF,tr Türkiye,29,1.it Roma,1997,2,2,163,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,31a62dc7
+184,Lukáš Červ,MF,cz Czechia,25,1.cz Viktoria Plzeň,2001,2,2,163,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,bb4a41bc
+185,Fares Chaïbi,MF,dz Algeria,23,1.de Frankfurt,2002,4,4,360,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,357103bd
+186,Trevoh Chalobah,DFMF,eng England,26,1.eng Chelsea,1999,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5515376c
+187,Štěpán Chaloupek,DF,cz Czechia,23,1.cz Slavia Prague,2003,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ded82b9a
+188,Mouhib Chamakh,GK,tn Tunisia,24,1.tn Club Africain,2001,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,9627f87b
+189,Firas Chaouat,FW,tn Tunisia,30,1.tn Club Africain,1996,3,0,49,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,7fa8ef98
+190,Luis Chávez,MF,mx Mexico,30,1.ru Dynamo Moskva,1996,1,0,25,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e50949ea
+191,Mateo Chávez,DF,mx Mexico,22,1.nl AZ Alkmaar,2004,1,1,77,0.9,1,0,1,1,0,0,0,0,1.17,0.00,1.17,1.17,1.17,Matches,f82246a1
+192,Samir Chergui,DF,dz Algeria,27,1.fr Paris FC,1999,1,0,20,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4b6ab1da
+193,Rayan Cherki,MF,fr France,22,1.eng Manchester City,2003,7,1,130,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b34c63a5
+194,Mathieu Choinière,MF,ca Canada,27,1.us LAFC,1999,1,1,57,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,017459bb
+195,Tahith Chong,MF,cw Curaçao,26,2.eng Sheffield United,1999,3,3,247,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2696b6a9
+196,Tomáš Chorý,FW,cz Czechia,31,1.cz Slavia Prague,1995,2,0,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,163bbd4a
+197,Ryan Christie,MF,sct Scotland,31,1.eng Bournemouth,1995,3,1,95,1.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,26ce2263
+198,Carney Chukwuemeka,MF,at Austria,22,1.de Dortmund,2003,3,0,83,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b2f9c73e
+199,Mojmír Chytil,FW,cz Czechia,27,1.cz Slavia Prague,1999,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,01a08323
+200,Brian Cipenga,MFFW,cd Congo DR,28,2.es Castellón,1998,2,2,146,1.6,1,0,1,1,0,0,0,0,0.62,0.00,0.62,0.62,0.62,Matches,e4787d6f
+201,Alessandro Circati,DF,au Australia,22,1.it Parma,2003,4,4,390,4.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1223765c
+202,Pathé Ciss,DF,sn Senegal,32,1.es Rayo Vallecano,1994,4,1,184,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,9a0408b6
+203,Livano Comenencia,MF,cw Curaçao,22,1.ch Zürich,2004,3,3,233,2.6,1,0,1,1,0,0,1,0,0.39,0.00,0.39,0.39,0.39,Matches,c9d96dc1
+204,Eray Cömert,DF,ch Switzerland,28,1.es Valencia,1998,1,0,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,15937e17
+205,Francisco Conceição,MF,pt Portugal,23,1.it Juventus,2002,4,0,126,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5ef3d210
+206,Jhon Córdoba,FW,co Colombia,33,1.ru Krasnodar,1993,3,2,99,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,9f381d8b
+207,José Córdoba,DF,pa Panama,25,2.eng Norwich City,2001,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,bec98750
+208,Derek Cornelius,DF,ca Canada,28,1.fr Marseille,1997,4,4,315,3.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,577744b8
+209,Diogo Costa,GK,pt Portugal,26,1.pt Porto,1999,5,5,450,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,93fffbcf
+210,Nuno da Costa,FW,cv Cabo Verde,35,1.tr Başakşehir,1991,4,1,159,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,909222de
+211,Samu Costa,MF,pt Portugal,25,1.es Mallorca,2000,1,0,21,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,76c2a023
+212,Vladimír Coufal,MFDF,cz Czechia,33,1.de Hoffenheim,1992,3,3,270,3.0,0,1,1,0,0,0,0,0,0.00,0.33,0.33,0.00,0.33,Matches,fdf3cb77
+213,Thibaut Courtois,GK,be Belgium,34,1.es Real Madrid,1992,6,6,550,6.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1840e36d
+214,Maxime Crépeau,GK,ca Canada,32,1.us Orlando City,1994,5,5,450,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ea42e480
+215,Max Crocombe,GK,nz New Zealand,32,2.eng Millwall,1993,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,fdf47077
+216,Pau Cubarsí,DF,es Spain,19,1.es Barcelona,2007,8,8,750,8.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,cc7888f3
+217,Andrés Cubas,MF,py Paraguay,30,1.us Vancouver,1996,5,5,480,5.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,9b40a6ea
+218,Cucho,FWMF,co Colombia,27,1.es Real Betis,1999,2,0,50,0.6,0,1,1,0,0,0,0,0,0.00,1.80,1.80,0.00,1.80,Matches,71b47ab9
+219,Marc Cucurella,DF,es Spain,27,1.eng Chelsea,1998,8,8,750,8.3,0,2,2,0,0,0,1,0,0.00,0.24,0.24,0.00,0.24,Matches,1daec722
+220,Matheus Cunha,FW,br Brazil,27,1.eng Manchester Utd,1999,5,4,290,3.2,3,0,3,3,0,0,0,0,0.93,0.00,0.93,0.93,0.93,Matches,dc62b55d
+221,Findlay Curtis,MF,sct Scotland,19,1.sct Kilmarnock,2006,2,0,9,0.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,e2a68b89
+222,Aymen Dahmen,GK,tn Tunisia,29,1.tn Ahly Sfaxien,1997,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8bf49030
+223,Diogo Dalot,DFMF,pt Portugal,27,1.eng Manchester Utd,1999,2,0,65,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d9565625
+224,Danilo,DF,br Brazil,34,1.br Flamengo,1991,5,4,405,4.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,94b2001f
+225,Kevin Danso,DF,at Austria,27,1.eng Tottenham,1998,4,2,241,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6e33125f
+226,Vladimír Darida,MF,cz Czechia,35,1.cz Hradec Králové,1990,1,1,54,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,3eb0f2df
+227,Jonathan David,FW,ca Canada,26,1.it Juventus,2000,5,5,420,4.7,3,0,3,3,0,0,1,0,0.64,0.00,0.64,0.64,0.64,Matches,ce50fd99
+228,Promise David,FW,ca Canada,24,1.be Union SG,2001,4,0,80,0.9,1,1,2,1,0,0,0,0,1.13,1.13,2.25,1.13,2.25,Matches,dbe19468
+229,Alphonso Davies,DFFW,ca Canada,25,1.de Bayern Munich,2000,1,0,16,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d781d855
+230,Erick Davis,DF,pa Panama,35,1.pa Plaza Amador,1991,2,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2ffb0739
+231,Nasser Al-Dawsari,MF,sa Saudi Arabia,27,1.sa Al-Hilal,1998,3,2,207,2.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,7709e4a6
+232,Salem Al-Dawsari,MF,sa Saudi Arabia,34,1.sa Al-Hilal,1991,3,3,245,2.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,60ee859c
+233,Mohammad Al-Dawud,FWMF,jo Jordan,34,1.jo Al-Wehdat SC,1992,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e645c3fc
+234,Kevin De Bruyne,MF,be Belgium,34,1.it Napoli,1991,5,5,382,4.2,1,0,1,1,0,0,1,0,0.24,0.00,0.24,0.24,0.24,Matches,e46012d4
+235,Maxim De Cuyper,DF,be Belgium,25,1.eng Brighton,2000,6,5,442,4.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,d494882e
+236,Luc De Fougerolles,DF,ca Canada,20,1.eng Fulham,2005,5,4,372,4.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,45c427ff
+237,Charles De Ketelaere,FWMF,be Belgium,25,1.it Atalanta,2001,5,5,350,3.9,3,1,4,3,0,0,0,0,0.77,0.26,1.03,0.77,1.03,Matches,2ef7c612
+238,Nicolás De La Cruz,MF,uy Uruguay,29,1.br Flamengo,1997,3,0,86,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,8fda5c72
+239,Rodrigo De Paul,MF,ar Argentina,32,1.us Inter Miami,1994,7,6,491,5.5,0,1,1,0,0,0,1,0,0.00,0.18,0.18,0.00,0.18,Matches,162efffd
+240,Amar Dedić,DF,ba Bosnia–Herz,23,1.pt Benfica,2002,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,bc6e544a
+241,Louicius Deedson,MF,ht Haiti,25,1.us FC Dallas,2001,3,1,112,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f7059bb1
+242,Hannes Delcroix,DF,ht Haiti,27,1.ch Lugano,1999,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b737f944
+243,Ousmane Dembélé,MF,fr France,29,1.fr PSG,1997,8,7,592,6.6,6,2,8,6,0,0,0,0,0.91,0.30,1.22,0.91,1.22,Matches,b19db005
+244,Merih Demiral,DF,tr Türkiye,28,1.sa Al-Ahli,1998,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e3cceee6
+245,Ermedin Demirović,FW,ba Bosnia–Herz,28,1.de Stuttgart,1998,4,4,354,3.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,ed79b7d3
+246,Sergiño Dest,MF,us USA,25,1.nl PSV,2000,5,4,297,3.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5976f83e
+247,Frans Dhia Putros,DF,iq Iraq,32,1.id Persib Bandung,1993,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0102aa7e
+248,Oumar Diakité,FW,ci Côte d'Ivoire,22,1.be Cercle Brugge,2003,2,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,44435c8f
+249,Amad Diallo,MFFW,ci Côte d'Ivoire,23,1.eng Manchester Utd,2002,4,2,185,2.1,2,0,2,2,0,0,0,0,0.97,0.00,0.97,0.97,0.97,Matches,9dc96f10
+250,Assane Diao,MF,sn Senegal,20,1.it Como,2005,1,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8ae7d0ec
+251,Habib Diarra,MF,sn Senegal,22,1.eng Sunderland,2004,3,2,143,1.6,2,0,2,2,0,0,0,0,1.26,0.00,1.26,1.26,1.26,Matches,6d0fe035
+252,Rúben Dias,DF,pt Portugal,29,1.eng Manchester City,1997,4,4,360,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,31c69ef1
+253,Krépin Diatta,DF,sn Senegal,27,1.fr Monaco,1999,4,4,390,4.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8104e41e
+254,Mory Diaw,GK,sn Senegal,32,1.fr Le Havre,1993,3,2,238,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f41a69e6
+255,Brahim Díaz,MF,ma Morocco,26,1.es Real Madrid,1999,6,6,457,5.1,0,4,4,0,0,0,0,0,0.00,0.79,0.79,0.00,0.79,Matches,407feb71
+256,Ismael Díaz,FWMF,pa Panama,29,1.mx León,1997,2,0,37,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f2a276d1
+257,Luis Díaz,FWMF,co Colombia,29,1.de Bayern Munich,1997,5,5,478,5.3,1,1,2,1,0,0,0,0,0.19,0.19,0.38,0.19,0.38,Matches,4a1a9578
+258,Bamba Dieng,FW,sn Senegal,26,1.fr Lorient,2000,1,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,40774c6b
+259,Lucas Digne,DF,fr France,32,1.eng Aston Villa,1993,6,5,463,5.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1b84dbe1
+260,Diney,DF,cv Cabo Verde,31,1.ae Al Bataeh,1995,4,4,390,4.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,d2e33ba2
+261,Ousmane Diomande,DF,ci Côte d'Ivoire,22,1.pt Sporting CP,2003,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,394be156
+262,Yan Diomandé,MFFW,ci Côte d'Ivoire,19,1.de RB Leipzig,2006,4,4,329,3.7,0,1,1,0,0,0,0,0,0.00,0.27,0.27,0.00,0.27,Matches,919f5f54
+263,Issa Diop,DF,ma Morocco,29,1.eng Fulham,1997,5,5,476,5.3,1,0,1,1,0,0,3,0,0.19,0.00,0.19,0.19,0.19,Matches,a712ca2b
+264,El Hadji Malick Diouf,DF,sn Senegal,21,1.eng West Ham,2004,3,2,171,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,bd5eb2e5
+265,Ritsu Doan,MF,jp Japan,27,1.de Frankfurt,1998,4,4,278,3.1,0,1,1,0,0,0,0,0,0.00,0.32,0.32,0.00,0.32,Matches,d01bbb6f
+266,Jeremy Doku,MF,be Belgium,24,1.eng Manchester City,2002,5,4,309,3.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,fffea3e5
+267,Merchas Doski,DF,iq Iraq,26,1.cz Viktoria Plzeň,1999,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,fdf4cfe5
+268,David Douděra,MF,cz Czechia,28,1.cz Slavia Prague,1998,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e95b4604
+269,Désiré Doué,MF,fr France,21,1.fr PSG,2005,8,4,400,4.4,1,1,2,1,0,0,0,0,0.23,0.23,0.45,0.23,0.45,Matches,9e7483ff
+270,Guéla Doué,DF,ci Côte d'Ivoire,23,1.fr Strasbourg,2002,4,3,277,3.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,b4ef3fb5
+271,Deroy Duarte,MF,cv Cabo Verde,26,1.bg Ludogorets,1999,4,2,264,2.9,1,0,1,1,0,0,0,0,0.34,0.00,0.34,0.34,0.34,Matches,6af8fc5b
+272,Laros Duarte,MF,cv Cabo Verde,29,1.hu Puskás Akad.,1997,4,2,166,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4af3d3c8
+273,Denzel Dumfries,DFMF,nl Netherlands,30,1.it Inter,1996,4,4,390,4.3,0,2,2,0,0,0,0,0,0.00,0.46,0.46,0.00,0.46,Matches,481c9ece
+274,Jean-Kevin Duverne,DF,ht Haiti,28,1.be Gent,1997,2,2,169,1.9,0,1,1,0,0,0,0,0,0.00,0.53,0.53,0.00,0.53,Matches,0cbc8baa
+275,Lyndon Dykes,FWMF,sct Scotland,30,2.eng Charlton Athletic,1995,2,0,36,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,cd92357a
+276,Edin Džeko,FW,ba Bosnia–Herz,40,2.de Schalke 04,1986,3,3,176,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,3bb7f478
+277,Roshon van Eijma,DF,cw Curaçao,28,2.nl RKC Waalwijk,1998,1,0,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,130368de
+278,Anthony Elanga,MFFW,se Sweden,24,1.eng Newcastle,2002,4,2,217,2.4,2,0,2,2,0,0,0,0,0.83,0.00,0.83,0.83,0.83,Matches,2fba6108
+279,Meschak Elia,FWMF,cd Congo DR,28,1.tr Alanyaspor,1997,2,0,46,0.5,0,1,1,0,0,0,0,0,0.00,1.96,1.96,0.00,1.96,Matches,5d51b074
+280,Callan Elliot,DF,nz New Zealand,26,1.au Auckland FC,1999,1,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,9d6968a3
+281,Eren Elmalı,DF,tr Türkiye,25,1.tr Galatasaray,2000,2,1,111,1.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,8eeb8ba4
+282,Nico Elvedi,DF,ch Switzerland,29,1.de Gladbach,1996,6,6,600,6.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,48035304
+283,Breel Embolo,FW,ch Switzerland,29,1.fr Rennes,1997,6,6,501,5.6,2,2,4,1,1,1,2,1,0.36,0.36,0.72,0.18,0.54,Matches,0b4f388a
+284,Julio Enciso,FW,py Paraguay,22,1.fr Strasbourg,2004,5,5,386,4.3,1,2,3,1,0,0,0,0,0.23,0.47,0.70,0.23,0.70,Matches,9cfbad36
+285,Endrick,FW,br Brazil,19,1.fr Lyon,2006,4,0,114,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a2728fbf
+286,Sherzod Esanov,MF,uz Uzbekistan,23,1.uz FK Bukhara Nurafshon,2003,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,bd6667ba
+287,Fidel Escobar,DF,pa Panama,31,1.cr Saprissa,1995,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4991ec66
+288,Pervis Estupiñán,MF,ec Ecuador,28,1.it Milan,1998,2,1,89,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d38fdf53
+289,Derrick Etienne,FWMF,ht Haiti,29,1.us Toronto FC,1996,1,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,59059f1e
+290,Stephen Eustáquio,MF,ca Canada,29,1.pt Porto,1996,5,4,392,4.4,1,0,1,1,0,0,0,0,0.23,0.00,0.23,0.23,0.23,Matches,577efaec
+291,Martin Expérience,DFMF,ht Haiti,27,2.fr Nancy,1999,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,9edb83f4
+292,Saeid Ezatolahi,MF,ir IR Iran,29,1.ae Al-Ahli Dubai FC,1996,3,3,264,2.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,314d95ac
+293,Eberechi Eze,MF,eng England,27,1.eng Arsenal,1998,5,1,211,2.3,0,1,1,0,0,0,0,0,0.00,0.43,0.43,0.00,0.43,Matches,ae4fc6a4
+294,Fabinho,DFMF,br Brazil,32,1.sa Al-Ittihad,1993,3,0,71,0.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,7f3b388c
+295,José Fajardo,FW,pa Panama,32,1.ec Univ Católica,1993,3,1,155,1.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,682e47b3
+296,Odeh Al-Fakhouri,MFFW,jo Jordan,20,1.eg Pyramids FC,2005,3,2,148,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,30591ae5
+297,Henrik Falchener,DF,no Norway,23,1.no Viking,2003,1,1,65,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,57fe6b9b
+298,Marko Farji,MF,iq Iraq,22,2.it Venezia,2004,2,0,54,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e046cff6
+299,Christian Fassnacht,FWMF,ch Switzerland,32,1.ch Young Boys,1993,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0aeeed3f
+300,Abdul Fatawu Issahaku,FWMF,gh Ghana,22,2.eng Leicester City,2004,4,0,132,1.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,bceda5ff
+301,Ahmed Fathy,MF,qa Qatar,33,1.qa Al-Arabi,1993,3,1,150,1.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,f2369793
+302,Hamdy Fathy,DFMF,eg Egypt,31,1.qa Al-Wakrah,1994,4,3,238,2.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,c8ef4955
+303,Ahmed Fatouh,DF,eg Egypt,28,1.eg Zamalek SC,1998,3,3,267,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,de13286d
+304,Abbosbek Fayzullayev,MF,uz Uzbekistan,22,1.tr Başakşehir,2003,3,3,220,2.4,1,0,1,1,0,0,0,0,0.41,0.00,0.41,0.41,0.41,Matches,ef1d36a1
+305,João Félix,MF,pt Portugal,26,1.sa Al-Nassr,1999,3,3,201,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8aafd64f
+306,Lewis Ferguson,MF,sct Scotland,26,1.it Bologna,1999,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ee64a822
+307,Bruno Fernandes,MF,pt Portugal,31,1.eng Manchester Utd,1994,5,5,422,4.7,0,1,1,0,0,0,0,0,0.00,0.21,0.21,0.00,0.21,Matches,507c7bdf
+308,Enzo Fernández,MF,ar Argentina,25,1.eng Chelsea,2001,7,7,659,7.3,2,0,2,2,0,0,2,1,0.27,0.00,0.27,0.27,0.27,Matches,5ff4ab71
+309,Matias Fernandez-Pardo,FWMF,be Belgium,21,1.fr Lille,2005,3,0,44,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0cdb6a2a
+310,Álvaro Fidalgo,MF,mx Mexico,29,1.es Real Betis,1997,3,1,96,1.1,1,0,1,1,0,0,0,0,0.94,0.00,0.94,0.94,0.94,Matches,c705cdc4
+311,Sherel Floranus,DF,cw Curaçao,27,1.nl Zwolle,1998,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5ad49fbb
+312,Seko Fofana,MF,ci Côte d'Ivoire,31,1.pt Porto,1995,2,1,92,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,5313ed43
+313,Yahia Fofana,GK,ci Côte d'Ivoire,25,1.tr Rizespor,2000,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,9d420dad
+314,Deveron Fonville,DF,cw Curaçao,23,1.nl NEC Nijmegen,2003,3,3,241,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,21932982
+315,Yassin Fortuné,FWMF,ht Haiti,27,2.pt Vizela,1999,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ddcc9e22
+316,Lyle Foster,FW,za South Africa,25,1.eng Burnley,2000,1,1,55,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f84a807c
+317,Alan Franco,DF,ec Ecuador,27,1.br Atlético Mineiro,1998,4,4,251,2.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,c76b161b
+318,Alex Freeman,DF,us USA,21,1.es Villarreal,2004,5,4,374,4.2,1,1,2,1,0,0,0,0,0.24,0.24,0.48,0.24,0.48,Matches,754f150b
+319,Matt Freese,GK,us USA,27,1.us NYCFC,1998,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2f49476c
+320,Remo Freuler,MF,ch Switzerland,34,1.it Bologna,1992,6,6,592,6.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,98d2c2c4
+321,Marco Friedl,DF,at Austria,28,1.de Werder Bremen,1998,1,0,24,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f86ad3f5
+322,Juriën Gaari,DF,cw Curaçao,32,2.sa Abha,1993,2,2,166,1.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,bf7a9d1a
+323,Jassem Gaber,MF,qa Qatar,24,1.qa Al Rayyan SC,2002,3,3,149,1.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,af9ef8aa
+324,Cody Gakpo,FW,nl Netherlands,27,1.eng Liverpool,1999,4,4,368,4.1,3,1,4,3,0,0,0,0,0.73,0.24,0.98,0.73,0.98,Matches,1971591f
+325,Matías Galarza,MF,py Paraguay,24,1.us Atlanta Utd,2002,4,4,388,4.3,1,1,2,1,0,0,2,0,0.23,0.23,0.46,0.23,0.46,Matches,8e97a57b
+326,Hernán Galíndez,GK,ec Ecuador,39,1.ar Huracán,1987,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,89c136f6
+327,Jesús Gallardo,DF,mx Mexico,31,1.mx Toluca,1994,5,4,373,4.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d0846b6c
+328,Ahmed Al-Ganehi,FW,qa Qatar,25,1.qa Al-Gharafa Sports Club,2000,1,0,36,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,efcf04d2
+329,Ben Gannon-Doak,MF,sct Scotland,20,1.eng Bournemouth,2005,3,2,186,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,733f1a7d
+330,Eric García,DFMF,es Spain,25,1.es Barcelona,2001,1,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2bed3eab
+331,Gavi,FW,es Spain,21,1.es Barcelona,2004,2,1,76,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,19cae58d
+332,Jason Geria,DF,au Australia,33,2.jp Albirex Niigata,1993,2,0,62,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,cd494a8d
+333,Khalid Al Ghannam,MF,sa Saudi Arabia,25,1.sa Al-Ettifaq,2000,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c16843c7
+334,Ismaël Gharbi,MF,tn Tunisia,22,1.de Augsburg,2004,3,1,127,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5b3cfa12
+335,Mehdi Ghayedi,FW,ir IR Iran,27,1.ae Al-Nasr Dubai,1998,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b6c90b4b
+336,Farés Ghedjemis,FWMF,dz Algeria,23,2.it Frosinone,2002,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,14aac43e
+337,Saman Ghoddos,MF,ir IR Iran,32,1.ae Al-Ittihad Kalba,1993,3,3,208,2.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f7b1d4e0
+338,Mohammad Ghorbani,MF,ir IR Iran,25,1.ae Al-Wahda FC,2001,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4a078e18
+339,Lee Gi-hyuk,DF,kr Korea Republic,25,1.kr Gangwon FC,2000,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,18c8c3c7
+340,Armin Gigovic,MF,ba Bosnia–Herz,24,1.ch Young Boys,2002,2,1,79,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d0a0858e
+341,Orlando Gill,GK,py Paraguay,26,1.py San Lorenzo,2000,5,5,480,5.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0d425331
+342,Santiago Giménez,FW,mx Mexico,25,1.it Milan,2001,4,0,86,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,37337aea
+343,Aníbal Godoy,MF,pa Panama,36,1.us San Diego FC,1990,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2d496ca3
+344,Andrés Gómez,MF,co Colombia,23,1.br Vasco da Gama,2002,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,76a82373
+345,Diego Gómez,MF,py Paraguay,23,1.eng Brighton,2003,4,4,304,3.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,916728da
+346,Gustavo Gómez,DF,py Paraguay,33,1.br Palmeiras,1993,5,5,480,5.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d5ce52a5
+347,Armando González,FW,mx Mexico,23,1.mx Guadalajara,2003,1,0,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1278bc9a
+348,Nicolás González,MF,ar Argentina,28,1.es Atlético Madrid,1998,7,1,259,2.9,0,1,1,0,0,0,0,0,0.00,0.35,0.35,0.00,0.35,Matches,2374aaca
+349,Anthony Gordon,MF,eng England,25,1.es Barcelona,2001,6,5,396,4.4,1,3,4,1,0,0,0,0,0.23,0.68,0.91,0.23,0.91,Matches,2bd83368
+350,Leon Goretzka,MF,de Germany,31,1.de Bayern Munich,1995,3,0,99,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,cc86b9a3
+351,Kenji Gorré,FWMF,cw Curaçao,31,1.il Maccabi Haifa,1994,1,0,16,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,52d1a4c6
+352,Keisuke Gotō,FW,jp Japan,21,1.be Sint-Truiden,2005,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,82a2ca86
+353,Amine Gouiri,FW,dz Algeria,26,1.fr Marseille,2000,4,3,251,2.8,1,0,1,1,0,0,0,0,0.36,0.00,0.36,0.36,0.36,Matches,aad56ca3
+354,Ryan Gravenberch,MF,nl Netherlands,24,1.eng Liverpool,2002,4,4,345,3.8,0,2,2,0,0,0,0,0,0.00,0.52,0.52,0.00,0.52,Matches,b8e740fb
+355,Michael Gregoritsch,FW,at Austria,32,1.de Augsburg,1994,3,2,188,2.1,0,1,1,0,0,0,0,0,0.00,0.48,0.48,0.00,0.48,Matches,8e235926
+356,Florian Grillitsch,DFMF,at Austria,30,1.pt Braga,1995,2,0,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ffbbc83b
+357,Pascal Groß,DFMF,de Germany,34,1.eng Brighton,1991,1,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8aec0537
+358,Gabriel Gudmundsson,MFDF,se Sweden,27,1.eng Leeds United,1999,4,4,330,3.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,d5d22a58
+359,Cho Gue-sung,FW,kr Korea Republic,28,1.dk Midtjylland,1998,2,0,31,0.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,ccfa8e5e
+360,Marc Guéhi,DF,eng England,25,1.eng Manchester City,2000,8,7,663,7.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,d0706b27
+361,Evann Guessand,FWMF,ci Côte d'Ivoire,24,1.eng Crystal Palace,2001,2,0,17,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b73f17f8
+362,Idrissa Gueye,MF,sn Senegal,36,1.eng Everton,1989,4,4,361,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,72c812f3
+363,Pape Gueye,MF,sn Senegal,27,1.es Villarreal,1999,4,3,234,2.6,2,1,3,2,0,0,1,0,0.77,0.38,1.15,0.77,1.15,Matches,7155e3e1
+364,Bruno Guimarães,MF,br Brazil,28,1.eng Newcastle,1997,5,5,416,4.6,0,4,4,0,0,1,0,0,0.00,0.87,0.87,0.00,0.87,Matches,82518f62
+365,Deniz Gül,FW,tr Türkiye,21,1.pt Porto,2004,2,0,37,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f0fb443e
+366,Arda Güler,MF,tr Türkiye,21,1.es Real Madrid,2005,3,3,270,3.0,1,0,1,1,0,0,0,0,0.33,0.00,0.33,0.33,0.33,Matches,3741ca58
+367,Angus Gunn,GK,sct Scotland,30,1.eng Nottingham,1996,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e082af5b
+368,Malo Gusto,DF,fr France,23,1.eng Chelsea,2003,5,1,121,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d56b9520
+369,Brian Gutiérrez,MF,mx Mexico,22,1.mx Guadalajara,2003,4,2,198,2.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,d88f31db
+370,Jorge Gutiérrez,DF,pa Panama,27,1.ve Dep. La Guaira,1998,1,1,87,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,56f6d192
+371,Joško Gvardiol,DF,hr Croatia,24,1.eng Manchester City,2002,4,2,139,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5ad50391
+372,Viktor Gyökeres,FW,se Sweden,28,1.eng Arsenal,1998,4,4,360,4.0,1,2,3,1,0,0,1,0,0.25,0.50,0.75,0.25,0.75,Matches,4d5a9185
+373,Aziz Gʻaniyev,MF,uz Uzbekistan,28,,1998,2,1,122,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0c492054
+374,Erling Haaland,FW,no Norway,25,1.eng Manchester City,2000,5,5,465,5.2,7,0,7,7,0,0,0,0,1.35,0.00,1.35,1.35,1.35,Matches,1f44ac21
+375,Ihsan Haddad,DF,jo Jordan,32,1.jo Al-Hussein SC,1994,3,3,260,2.9,0,1,1,0,0,0,0,0,0.00,0.35,0.35,0.00,0.35,Matches,85660a5d
+376,Anis Hadj Moussa,MF,dz Algeria,24,1.nl Feyenoord,2002,3,1,98,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,7bc7eef2
+377,Jaouen Hadjam,DF,dz Algeria,23,1.ch Young Boys,2003,3,1,109,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,576817b7
+378,Amir Hadžiahmetović,MF,ba Bosnia–Herz,29,2.eng Hull City,1997,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e8213ed3
+379,Dennis Hadžikadunić,DF,ba Bosnia–Herz,27,2.it Sampdoria,1998,1,0,27,0.3,0,1,1,0,0,0,0,0,0.00,3.33,3.33,0.00,3.33,Matches,82cfae2a
+380,Karim Hafez,DF,eg Egypt,30,1.eg Pyramids FC,1996,3,2,172,1.9,0,1,1,0,0,0,0,0,0.00,0.52,0.52,0.00,0.52,Matches,d2debf23
+381,Ehsan Hajsafi,DF,ir IR Iran,36,1.ir Sepahan,1990,2,1,91,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,b060e3b8
+382,Achraf Hakimi,DF,ma Morocco,27,1.fr PSG,1998,6,6,570,6.3,1,2,3,1,0,0,1,0,0.16,0.32,0.47,0.16,0.47,Matches,e42d61c7
+383,Redouane Halhal,DF,ma Morocco,23,1.be Mechelen,2003,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,e17c2cec
+384,Ali Al Hamadi,FW,iq Iraq,24,2.eng Ipswich Town,2002,3,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8450467d
+385,Abdullah Al-Hamdan,FW,sa Saudi Arabia,26,1.sa Al-Nassr,1999,3,0,71,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,cc4b5436
+386,Mohamed Amine Ben Hamida,DF,tn Tunisia,30,1.tn Espérance Tunis,1995,3,2,202,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2a5e8f82
+387,Odiljon Hamrobekov,MF,uz Uzbekistan,30,1.ir Tractor,1996,2,1,77,0.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,03f63e77
+388,Lee Han-beom,DF,kr Korea Republic,23,1.dk Midtjylland,2002,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,071f2dd3
+389,Grant Hanley,DF,sct Scotland,34,1.sct Hibernian,1991,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e9254eec
+390,Sontje Hansen,FW,cw Curaçao,24,2.eng Middlesbrough,2002,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,70bad10b
+391,Mohamed Hany,DF,eg Egypt,30,1.eg Al Ahly,1996,5,5,480,5.3,0,1,1,0,0,0,0,0,0.00,0.19,0.19,0.00,0.19,Matches,9bcf1513
+392,Moteb Al-Harbi,DF,sa Saudi Arabia,26,1.sa Al-Hilal,2000,3,2,188,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1d88554c
+393,Saleh Hardani,DF,ir IR Iran,27,1.ir Esteghlal,1998,2,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,3a9b682b
+394,Carlos Harvey,MF,pa Panama,26,1.us Minnesota Utd,2000,3,3,267,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,3f18600c
+395,Akam Hashim,DF,iq Iraq,27,1.iq Al-Zawra'a SC,1998,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f8416e89
+396,Haissem Hassan,MF,eg Egypt,24,1.es Oviedo,2002,2,1,126,1.4,0,1,1,0,0,0,2,0,0.00,0.71,0.71,0.00,0.71,Matches,e0979e74
+397,Jalal Hassan,GK,iq Iraq,35,1.iq Al-Zawra'a SC,1991,2,1,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,87351c2e
+398,Abdulaziz Hatem,MF,qa Qatar,36,1.qa Al Rayyan SC,1990,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c5065ef8
+399,Jorrel Hato,DF,nl Netherlands,20,1.eng Chelsea,2006,1,0,35,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,bde35051
+400,Kai Havertz,FW,de Germany,27,1.eng Arsenal,1999,4,4,353,3.9,3,0,3,2,1,1,1,0,0.76,0.00,0.76,0.51,0.51,Matches,fed7cb61
+401,Hassan Al-Haydos,MF,qa Qatar,35,1.qa Al Sadd,1990,2,1,57,0.6,1,0,1,1,0,0,0,0,1.58,0.00,1.58,1.58,1.58,Matches,41bd6c64
+402,Jan Paul van Hecke,DF,nl Netherlands,26,1.eng Brighton,2000,4,4,390,4.3,1,0,1,1,0,0,0,0,0.23,0.00,0.23,0.23,0.23,Matches,4fd08daa
+403,Hwang Hee-chan,FW,kr Korea Republic,30,1.eng Wolves,1996,3,1,108,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,169fd162
+404,Torbjørn Heggem,DF,no Norway,27,1.it Bologna,1999,5,5,443,4.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,834fea76
+405,Alaa Al Hejji,MF,sa Saudi Arabia,30,1.sa Neom,1995,2,0,32,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6d258576
+406,Dean Henderson,GK,eng England,29,1.eng Crystal Palace,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e5a76dfe
+407,Jordan Henderson,MF,eng England,35,1.eng Brentford,1990,1,0,7,0.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,935e6b8f
+408,Jack Hendry,DF,sct Scotland,31,1.sa Al-Ettifaq,1995,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ffed43e3
+409,Luiz Henrique,FWMF,br Brazil,25,1.ru Zenit,2001,1,0,29,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8059806f
+410,Theo Hernández,DF,fr France,28,1.sa Al-Hilal,1997,5,3,257,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d4c9725f
+411,Lucas Herrington,DF,au Australia,18,1.us Colorado Rapids,2007,2,2,210,2.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6f808c85
+412,Son Heung-min,FW,kr Korea Republic,33,1.us LAFC,1992,3,2,169,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,92e7e919
+413,Aaron Hickey,DF,sct Scotland,24,1.eng Brentford,2002,1,1,74,0.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1780bb4a
+414,Isak Hien,DF,se Sweden,27,1.it Atalanta,1999,3,3,216,2.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,12806697
+415,Piero Hincapié,DF,ec Ecuador,24,1.eng Arsenal,2002,4,4,339,3.8,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,0c7a48f8
+416,Adam Hložek,FW,cz Czechia,23,1.de Hoffenheim,2002,3,2,156,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5521f419
+417,Tomáš Holeš,DF,cz Czechia,33,1.cz Slavia Prague,1993,2,2,153,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e03c2d97
+418,Amirhossein Hosseinzadeh,FW,ir IR Iran,25,1.ir Tractor,2000,2,0,17,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,47270f0c
+419,Robin Hranáč,DF,cz Czechia,26,1.de Hoffenheim,2000,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,95d5aea2
+420,Ajdin Hrustic,MF,au Australia,29,1.nl Heracles Almelo,1996,2,0,80,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1f2d714c
+421,César Huerta,FWMF,mx Mexico,25,1.be Anderlecht,2000,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,de2f44ce
+422,Al-Hashmi Al-Hussain,MF,qa Qatar,22,1.qa Al-Arabi,2003,1,0,32,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c164fda2
+423,Ayman Hussein,FW,iq Iraq,30,1.iq Al-Karma,1996,2,2,115,1.3,1,0,1,1,0,0,0,0,0.78,0.00,0.78,0.78,0.78,Matches,8b574de7
+424,Oh Hyeon-gyu,FW,kr Korea Republic,25,1.tr Beşiktaş,2001,3,1,129,1.4,1,0,1,1,0,0,0,0,0.70,0.00,0.70,0.70,0.70,Matches,d25422fb
+425,Yang Hyun-jun,FWMF,kr Korea Republic,24,1.sct Celtic,2002,1,0,20,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f4cda99f
+426,Roger Ibanez,DF,br Brazil,27,1.sa Al-Ahli,1998,1,1,45,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,82efe6fa
+427,Yasser Ibrahim,DF,eg Egypt,33,1.eg Al Ahly,1993,5,4,467,5.2,1,0,1,1,0,0,2,0,0.19,0.00,0.19,0.19,0.19,Matches,0b89ad1b
+428,Borja Iglesias,FW,es Spain,33,1.es Celta Vigo,1993,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,75645f0e
+429,Hwang In-beom,MF,kr Korea Republic,29,1.nl Feyenoord,1996,3,3,263,2.9,1,1,2,1,0,0,0,0,0.34,0.34,0.68,0.34,0.68,Matches,92fa5d28
+430,Christ Inao Oulaï,MF,ci Côte d'Ivoire,20,1.tr Trabzonspor,2006,4,2,208,2.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,62709ee4
+431,Zidane Iqbal,MF,iq Iraq,23,1.nl Utrecht,2003,3,2,188,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6fa3c28e
+432,Nestory Irankunda,FWMF,au Australia,20,2.eng Watford,2006,4,3,261,2.9,1,0,1,1,0,0,0,0,0.34,0.00,0.34,0.34,0.34,Matches,4ac730b2
+433,Jackson Irvine,MF,au Australia,33,1.de St Pauli,1993,4,2,223,2.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,4637747c
+434,Alexander Isak,FW,se Sweden,26,1.eng Liverpool,1999,4,4,357,4.0,1,3,4,1,0,0,0,0,0.25,0.76,1.01,0.25,1.01,Matches,8e92be30
+435,Wilson Isidor,FW,ht Haiti,25,1.eng Sunderland,2000,3,2,186,2.1,1,0,1,1,0,0,0,0,0.48,0.00,0.48,0.48,0.48,Matches,a671316d
+436,Jamshid Iskanderov,FWMF,uz Uzbekistan,32,1.uz Neftchi FK,1993,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,3b8abe7c
+437,Zaid Ismail,MF,iq Iraq,24,1.iq Al-Talaba,2002,2,2,117,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c65effaa
+438,Ko Itakura,DF,jp Japan,29,1.nl Ajax,1997,2,2,128,1.4,0,1,1,0,0,0,0,0,0.00,0.70,0.70,0.00,0.70,Matches,97d545ae
+439,Jacob Italiano,DF,au Australia,24,1.at Grazer AK,2001,2,2,163,1.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2eb0ee9a
+440,Hiroki Ito,DF,jp Japan,27,1.de Bayern Munich,1999,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,204dded0
+441,Junya Itō,MF,jp Japan,33,1.be Genk,1993,4,2,216,2.4,1,0,1,1,0,0,0,0,0.42,0.00,0.42,0.42,0.42,Matches,dbd3a428
+442,Cedric Itten,FWMF,ch Switzerland,29,2.de Düsseldorf,1996,3,0,42,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ef233486
+443,Nicolas Jackson,FW,sn Senegal,24,1.de Bayern Munich,2001,4,2,234,2.6,0,1,1,0,0,0,0,0,0.00,0.38,0.38,0.00,0.38,Matches,9c36ed83
+444,Lee Jae-sung,FW,kr Korea Republic,33,1.de Mainz 05,1992,2,2,117,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,34b0387f
+445,Alireza Jahanbakhsh,FWMF,ir IR Iran,32,1.be Dender,1993,2,0,46,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,08452314
+446,Ismail Jakobs,DF,sn Senegal,26,1.tr Galatasaray,1999,3,2,219,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a0415710
+447,Reece James,DF,eng England,26,1.eng Chelsea,1999,5,3,319,3.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1265a93a
+448,Amer Jamous,MF,jo Jordan,23,1.iq Al-Zawra'a SC,2002,1,0,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,32d4f1e1
+449,Luca Jaquez,DF,ch Switzerland,23,1.de Stuttgart,2003,2,1,78,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a400da8e
+450,Ardon Jashari,MF,ch Switzerland,23,1.it Milan,2002,3,1,72,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,889588db
+451,Ali Jasim,MF,iq Iraq,22,1.sa Al-Najma,2004,2,2,129,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1a927a6f
+452,Danley Jean-Jacques,MF,ht Haiti,26,1.us Philadelphia,2000,3,3,259,2.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,59fcbd6d
+453,Eom Ji-sung,MF,kr Korea Republic,24,2.eng Swansea City,2002,2,0,42,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,3a049da1
+454,Raúl Jiménez,FW,mx Mexico,35,1.eng Fulham,1991,4,4,317,3.5,3,0,3,2,1,1,0,0,0.85,0.00,0.85,0.57,0.57,Matches,b561db50
+455,Kim Jin-gyu,MF,kr Korea Republic,29,1.kr Jeonbuk,1997,2,0,52,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,7c0479b1
+456,Park Jinseob,DFMF,kr Korea Republic,30,1.cn Zhejiang,1995,2,0,32,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,3316967a
+457,Ruslanbek Jiyanov,FW,uz Uzbekistan,25,1.uz Navbahor,2001,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,3c181746
+458,Alistair Johnston,DF,ca Canada,27,1.sct Celtic,1998,5,5,450,5.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,4fb17e20
+459,Frenkie de Jong,MF,nl Netherlands,29,1.es Barcelona,1997,4,4,328,3.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1bacc518
+460,Lenny Joseph,FW,ht Haiti,25,1.hu Ferencváros,2000,3,1,117,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d1828392
+461,Edmilson Junior,MFFW,qa Qatar,31,1.qa Al Duhail SC,1994,3,3,210,2.3,0,1,1,0,0,0,0,0,0.00,0.43,0.43,0.00,0.43,Matches,620764f4
+462,Vinicius Júnior,FW,br Brazil,25,1.es Real Madrid,2000,5,5,440,4.9,4,1,5,4,0,0,0,0,0.82,0.20,1.02,0.82,1.02,Matches,7111d552
+463,Elijah Just,MF,nz New Zealand,26,1.sct Motherwell,2000,3,3,264,2.9,3,0,3,3,0,0,1,0,1.02,0.00,1.02,1.02,1.02,Matches,0c295d6e
+464,Musab Al Juwayr,MFFW,sa Saudi Arabia,22,1.sa Al-Qadsiah,2003,3,2,152,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,62592fc1
+465,Ayoub El Kaabi,FW,ma Morocco,32,1.gr Olympiacos,1993,1,1,69,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b1bfd1d4
+466,Ozan Kabak,DF,tr Türkiye,26,1.de Hoffenheim,2000,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2d61d13a
+467,Ferdi Kadioglu,DF,tr Türkiye,26,1.eng Brighton,1999,2,2,159,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,66c52a77
+468,Kaku,MF,py Paraguay,31,1.ae Al Ain,1995,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,cb01ad74
+469,Saša Kalajdžić,FW,at Austria,28,1.at LASK,1997,3,1,77,0.9,1,0,1,1,0,0,0,0,1.17,0.00,1.17,1.17,1.17,Matches,15f24fe7
+470,Gédéon Kalulu,DF,cd Congo DR,28,1.cy Aris Limassol,1997,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,dd211559
+471,Daichi Kamada,MF,jp Japan,29,1.eng Crystal Palace,1996,4,4,329,3.7,2,0,2,2,0,0,1,0,0.55,0.00,0.55,0.55,0.55,Matches,15b287da
+472,Hossein Kanaanizadegan,DF,ir IR Iran,32,1.ir Persepolis,1994,2,2,135,1.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,24353c25
+473,Harry Kane,FW,eng England,32,1.de Bayern Munich,1993,7,7,652,7.2,6,1,7,4,2,2,0,0,0.83,0.14,0.97,0.55,0.69,Matches,21a66f6a
+474,Lee Kang-in,FW,kr Korea Republic,25,1.fr PSG,2001,3,3,270,3.0,0,1,1,0,0,0,1,0,0.00,0.33,0.33,0.00,0.33,Matches,8455ad90
+475,Mohamed Kanno,MF,sa Saudi Arabia,31,1.sa Al-Hilal,1994,3,2,225,2.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,74ccf212
+476,Steve Kapuadi,DF,cd Congo DR,28,1.pl Widzew Łódź,1998,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,3f3c941a
+477,Bekhruz Karimov,DF,uz Uzbekistan,18,1.uz FC Surkhon,2007,2,2,179,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,74cdaeba
+478,Jesper Karlström,MF,se Sweden,30,1.it Udinese,1995,2,2,138,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e0a1f4eb
+479,Gervane Kastaneer,FWMF,cw Curaçao,30,1.my Terengganu City,1996,3,0,30,0.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0c142e14
+480,Nikola Katić,DF,ba Bosnia–Herz,29,2.de Schalke 04,1996,4,4,317,3.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,35bd124a
+481,Edo Kayembe,MF,cd Congo DR,28,2.eng Watford,1998,3,2,160,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f99b71de
+482,Joris Kayembe,DFFW,cd Congo DR,31,1.be Genk,1994,4,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4657faba
+483,Franck Kessié,MF,ci Côte d'Ivoire,29,1.sa Al-Ahli,1996,4,4,346,3.8,1,0,1,1,0,0,1,0,0.26,0.00,0.26,0.26,0.26,Matches,05e19d6a
+484,Abdullah Al-Khaibari,MF,sa Saudi Arabia,29,1.sa Al-Nassr,1996,3,3,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ab47ae1c
+485,Shoja' Khalilzadeh,DF,ir IR Iran,37,1.ir Tractor,1989,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0aed29f1
+486,Dostonbek Khamdamov,MF,uz Uzbekistan,29,1.uz Pakhtakor Tashkent FK,1996,2,1,103,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d2dd2ffb
+487,Bilal El Khannouss,MFFW,ma Morocco,22,1.de Stuttgart,2004,6,6,461,5.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,f7042636
+488,Rani Khedira,MF,tn Tunisia,32,1.de Union Berlin,1994,3,2,149,1.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,59e4b92e
+489,Boualem Khoukhi,DF,qa Qatar,35,1.qa Al Sadd,1990,3,3,270,3.0,1,0,1,1,0,0,0,0,0.33,0.00,0.33,0.33,0.33,Matches,7be5ad52
+490,Abdukodir Khusanov,DF,uz Uzbekistan,22,1.eng Manchester City,2004,3,3,270,3.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,d17ce930
+491,Joshua Kimmich,DF,de Germany,31,1.de Bayern Munich,1995,4,4,351,3.9,0,2,2,0,0,0,0,0,0.00,0.51,0.51,0.00,0.51,Matches,49296448
+492,Justin Kluivert,FWMF,nl Netherlands,27,1.eng Bournemouth,1999,2,0,27,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4c3a6744
+493,Gregor Kobel,GK,ch Switzerland,28,1.de Dortmund,1997,6,6,600,6.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,cd59b9df
+494,Orkun Kökçü,MF,tr Türkiye,25,1.tr Beşiktaş,2000,3,2,153,1.7,0,1,1,0,0,0,0,0,0.00,0.59,0.59,0.00,0.59,Matches,9bf914b4
+495,Sead Kolašinac,DF,ba Bosnia–Herz,32,1.it Atalanta,1993,4,4,337,3.7,0,1,1,0,0,0,0,0,0.00,0.27,0.27,0.00,0.27,Matches,3935e52e
+496,Ghislain Konan,DF,ci Côte d'Ivoire,30,1.pt Gil Vicente FC,1995,3,3,269,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6b2c894b
+497,Ibrahima Konaté,DF,fr France,27,1.eng Liverpool,1999,2,1,60,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5ed9b537
+498,Ismaël Koné,MF,ca Canada,23,1.it Sassuolo,2002,2,2,146,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e0220b70
+499,Manu Koné,MF,fr France,25,1.it Roma,2001,5,4,385,4.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,86574238
+500,Ezri Konsa,DF,eng England,28,1.eng Aston Villa,1997,8,7,647,7.2,1,0,1,1,0,0,0,0,0.14,0.00,0.14,0.14,0.14,Matches,0313a347
+501,Teun Koopmeiners,DFMF,nl Netherlands,28,1.it Juventus,1998,4,0,122,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a26fb8aa
+502,Odilon Kossounou,DF,ci Côte d'Ivoire,25,1.it Atalanta,2001,4,3,272,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1f3afdcb
+503,Kalidou Koulibaly,DF,sn Senegal,34,1.sa Al-Hilal,1991,2,2,161,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,da974c7b
+504,Jules Koundé,DF,fr France,27,1.es Barcelona,1998,8,7,599,6.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4d1666ff
+505,Mateo Kovačić,MF,hr Croatia,32,1.eng Manchester City,1994,4,3,270,3.0,0,1,1,0,0,0,0,0,0.00,0.33,0.33,0.00,0.33,Matches,79c0821a
+506,Matej Kovar,GK,cz Czechia,26,1.nl PSV,2000,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,bc67a0e1
+507,Andrej Kramarić,FWMF,hr Croatia,34,1.de Hoffenheim,1991,3,0,59,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,603cb947
+508,Ladislav Krejčí,DF,cz Czechia,27,1.eng Wolves,1999,3,3,270,3.0,1,0,1,1,0,0,1,0,0.33,0.00,0.33,0.33,0.33,Matches,5b5c2228
+509,Takefusa Kubo,MF,jp Japan,25,1.es Real Sociedad,2001,1,1,74,0.8,0,1,1,0,0,0,0,0,0.00,1.22,1.22,0.00,1.22,Matches,16aa3654
+510,Brandley Kuwas,FWMF,cw Curaçao,33,1.nl Volendam,1992,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,42c94967
+511,Prince Kwabena Adu,FW,gh Ghana,22,1.cz Viktoria Plzeň,2003,3,0,39,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,36bdd145
+512,Maxence Lacroix,DF,fr France,26,1.eng Crystal Palace,2000,3,2,241,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,277c49ed
+513,Gustaf Lagerbielke,DF,se Sweden,26,1.pt Braga,2000,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,9e39fa2d
+514,Konrad Laimer,MFDF,at Austria,29,1.de Bayern Munich,1997,4,4,360,4.0,0,1,1,0,0,0,1,0,0.00,0.25,0.25,0.00,0.25,Matches,c1b7847c
+515,Ali Lajami,DF,sa Saudi Arabia,30,1.sa Al-Hilal,1996,3,1,149,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,46f7ab4f
+516,Senne Lammens,GK,be Belgium,23,1.eng Manchester Utd,2002,1,0,20,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8e6d2fcd
+517,Noa Lang,FWMF,nl Netherlands,26,1.tr Galatasaray,1999,2,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8e034340
+518,Sondre Langås,DF,no Norway,25,2.eng Derby County,2001,1,0,25,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,107e4890
+519,Aymeric Laporte,DF,es Spain,32,1.es Athletic Club,1994,8,8,727,8.1,0,1,1,0,0,0,1,0,0.00,0.12,0.12,0.00,0.12,Matches,119b9a8e
+520,Cyle Larin,FW,ca Canada,31,1.es Mallorca,1995,4,2,190,2.1,2,0,2,2,0,0,2,0,0.95,0.00,0.95,0.95,0.95,Matches,e7af9060
+521,Richie Laryea,DF,ca Canada,31,1.us Toronto FC,1995,5,5,429,4.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,276fdbe4
+522,Mohanad Lasheen,MF,eg Egypt,30,,1996,4,4,359,4.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,8c041c7d
+523,Issa Laye,MFDF,qa Qatar,28,1.qa Al-Arabi,1997,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c078667a
+524,Rafael Leão,MF,pt Portugal,27,1.it Milan,1999,5,1,158,1.8,1,1,2,1,0,0,0,0,0.57,0.57,1.14,0.57,1.14,Matches,20730eae
+525,Mathew Leckie,MF,au Australia,35,1.au Melb City,1991,1,1,60,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b93b7882
+526,Jefferson Lerma,MF,co Colombia,31,1.eng Crystal Palace,1994,5,5,410,4.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,9b5ce51a
+527,Jamie Leweling,FWMF,de Germany,25,1.de Stuttgart,2001,1,0,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,13fe7b69
+528,Philipp Lienhart,DF,at Austria,29,1.de Freiburg,1996,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,302527b2
+529,Victor Lindelöf,DFMF,se Sweden,31,1.eng Aston Villa,1994,4,4,356,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f5deef4c
+530,Erik Lira,MF,mx Mexico,26,1.mx Cruz Azul,2000,4,4,345,3.8,0,1,1,0,0,0,0,0,0.00,0.26,0.26,0.00,0.26,Matches,7b2c24ed
+531,Dominik Livaković,GK,hr Croatia,31,1.hr Dinamo Zagreb,1995,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,58f077c0
+532,Dailon Livramento,FW,cv Cabo Verde,25,1.pt Casa Pia,2001,3,2,174,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c115db1e
+533,Marcos Llorente,DF,es Spain,31,1.es Atlético Madrid,1995,3,2,187,2.1,0,1,1,0,0,0,0,0,0.00,0.48,0.48,0.00,0.48,Matches,02c15616
+534,Giovani Lo Celso,MF,ar Argentina,30,1.es Real Betis,1996,1,1,59,0.7,1,0,1,1,0,0,0,0,1.53,0.00,1.53,1.53,1.53,Matches,d7553721
+535,Jürgen Locadia,FW,cw Curaçao,32,2.us Miami FC,1993,3,3,235,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6cc47ae1
+536,Azarías Londoño,MF,pa Panama,24,1.ec Univ Católica,2001,3,0,56,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,31d68775
+537,Sidny Lopes Cabral,DF,cv Cabo Verde,23,1.pt Benfica,2002,3,3,285,3.2,1,0,1,1,0,0,2,0,0.32,0.00,0.32,0.32,0.32,Matches,20700569
+538,Flaco López,FW,ar Argentina,25,1.br Palmeiras,2000,2,0,20,0.2,0,1,1,0,0,0,1,0,0.00,4.50,4.50,0.00,4.50,Matches,e1426a52
+539,Derrick Luckassen,DF,gh Ghana,30,1.cy Pafos FC,1995,2,2,180,2.0,1,0,1,1,0,0,0,0,0.50,0.00,0.50,0.50,0.50,Matches,30a09cb5
+540,Jhon Lucumí,DF,co Colombia,27,1.it Bologna,1998,5,5,478,5.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,80490d7f
+541,José Luis Rodríguez,MFFW,pa Panama,27,1.mx FC Juárez,1998,3,3,233,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b333b014
+542,Romelu Lukaku,FW,be Belgium,33,1.it Napoli,1993,6,1,233,2.6,3,1,4,3,0,0,1,0,1.16,0.39,1.55,1.16,1.55,Matches,5eae500a
+543,Dodi Lukebakio,MF,be Belgium,28,1.pt Benfica,1997,3,1,164,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0c61c77c
+544,Jovo Lukić,FW,ba Bosnia–Herz,27,1.ro Univ. Cluj,1998,2,1,67,0.7,1,0,1,1,0,0,1,0,1.34,0.00,1.34,1.34,1.34,Matches,a2056e82
+545,Awer Mabil,FWMF,au Australia,30,2.es Castellón,1995,1,0,30,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,922da988
+546,Alexis Mac Allister,MF,ar Argentina,27,1.eng Liverpool,1998,8,7,750,8.3,1,1,2,1,0,0,1,0,0.12,0.12,0.24,0.12,0.24,Matches,83d074ff
+547,Deiver Machado,DF,co Colombia,32,1.fr Nantes,1993,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b3f8bdef
+548,Shuto Machino,FW,jp Japan,26,1.de Gladbach,1999,1,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,964dde35
+549,Assim Madibo,MF,qa Qatar,29,1.qa Al-Wakrah,1996,2,2,131,1.5,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,2b1d2ada
+550,Noni Madueke,MF,eng England,24,1.eng Arsenal,2002,5,4,286,3.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,bf34eebd
+551,Daizen Maeda,MF,jp Japan,28,1.sct Celtic,1997,3,3,244,2.7,1,0,1,1,0,0,0,0,0.37,0.00,0.37,0.37,0.37,Matches,395451fc
+552,Gabriel Magalhães,DF,br Brazil,28,1.eng Arsenal,1997,5,5,450,5.0,0,1,1,0,0,0,0,0,0.00,0.20,0.20,0.00,0.20,Matches,67ac5bb8
+553,Ermin Mahmić,MF,ba Bosnia–Herz,21,1.cz Slovan Liberec,2005,3,0,68,0.8,2,0,2,2,0,0,1,0,2.65,0.00,2.65,2.65,2.65,Matches,86e34165
+554,Hadj Mahmoud,MF,tn Tunisia,26,1.ch Lugano,2000,2,0,43,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,081048c2
+555,Riyad Mahrez,MF,dz Algeria,35,1.sa Al-Ahli,1991,4,3,262,2.9,2,1,3,2,0,0,0,0,0.69,0.34,1.03,0.69,1.03,Matches,892d5bb1
+556,Alexandro Maidana,DF,py Paraguay,20,1.ar Talleres–C,2005,2,1,55,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4d0d5020
+557,Mike Maignan,GK,fr France,30,1.it Milan,1995,8,8,720,8.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,fcb38f57
+558,Evidence Makgopa,FW,za South Africa,26,1.za Orlando Pirates,2000,4,2,215,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4d76d03b
+559,Ahmed Maknzi,DF,iq Iraq,24,1.iq Al-Karma,2001,1,0,33,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f95ac2b6
+560,Donyell Malen,FW,nl Netherlands,27,1.it Roma,1999,3,3,185,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,116c35df
+561,Arjan Malic,DF,ba Bosnia–Herz,20,1.at Sturm Graz,2005,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,de57cd45
+562,Mohamed Manai,DF,qa Qatar,23,1.qa Al-Shamal Sports Club,2002,3,0,69,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1e20b706
+563,Aïssa Mandi,DF,dz Algeria,34,1.fr Lille,1991,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,fbd6378b
+564,Sadio Mané,MFFW,sn Senegal,34,1.sa Al-Nassr,1992,4,4,362,4.0,0,1,1,0,0,0,0,0,0.00,0.25,0.25,0.00,0.25,Matches,c691bfe2
+565,Juan Manuel Sanabria,DF,uy Uruguay,26,1.mx Atlético San Luis,2000,3,2,204,2.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,f1d74479
+566,Johan Manzambi,MFFW,ch Switzerland,20,1.de Freiburg,2005,4,2,199,2.2,3,2,5,3,0,0,0,0,1.36,0.90,2.26,1.36,2.26,Matches,8fcf0e12
+567,Mahmoud Al-Mardi,MF,jo Jordan,32,1.jo Al-Hussein SC,1993,3,1,130,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1eedc1ea
+568,Jearl Margaritha,FWMF,cw Curaçao,26,2.be Beveren,2000,2,0,41,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,be915a68
+569,Omar Marmoush,FWMF,eg Egypt,27,1.eng Manchester City,1999,5,3,326,3.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0e0102eb
+570,Marquinhos,DF,br Brazil,32,1.fr PSG,1994,5,5,450,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d5f2f82b
+571,Gabriel Martinelli,MF,br Brazil,24,1.eng Arsenal,2001,4,1,143,1.6,1,0,1,1,0,0,0,0,0.63,0.00,0.63,0.63,0.63,Matches,48a5a5d6
+572,Guillermo Martínez Ayala,FW,mx Mexico,31,1.mx UNAM,1995,2,1,72,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,59146354
+573,Cristian Martínez,MFFW,pa Panama,29,1.il Kiryat Shmona,1997,3,3,242,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,fdb15495
+574,Emiliano Martínez,GK,ar Argentina,33,1.eng Aston Villa,1992,8,8,810,9.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,7956236f
+575,Lautaro Martínez,FW,ar Argentina,28,1.it Inter,1997,7,4,310,3.4,3,1,4,2,1,1,1,0,0.87,0.29,1.16,0.58,0.87,Matches,f7036e1c
+576,Lisandro Martínez,DF,ar Argentina,28,1.eng Manchester Utd,1998,7,7,624,6.9,1,1,2,1,0,0,2,0,0.14,0.14,0.29,0.14,0.29,Matches,bac46a10
+577,Thapelo Maseko,MFFW,za South Africa,22,1.cy AEL Limassol,2003,3,3,242,2.7,1,0,1,1,0,0,0,0,0.37,0.00,0.37,0.37,0.37,Matches,498d45f7
+578,Hazem Mastouri,FW,tn Tunisia,28,1.ru D. Makhachkala,1997,1,1,89,1.0,1,0,1,1,0,0,0,0,1.01,0.00,1.01,1.01,1.01,Matches,c88f913e
+579,Arthur Masuaku,DF,cd Congo DR,32,1.fr Lens,1993,4,4,315,3.5,0,1,1,0,0,0,0,0,0.00,0.29,0.29,0.00,0.29,Matches,57df7a11
+580,Igor Matanović,FW,hr Croatia,23,1.de Freiburg,2003,3,0,95,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,948e1292
+581,Pape Matar Sarr,MF,sn Senegal,23,1.eng Tottenham,2002,2,0,67,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,feb5d972
+582,Jean-Philippe Mateta,FW,fr France,28,1.eng Crystal Palace,1997,3,0,24,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,50e6dc35
+583,Mauricio,MF,py Paraguay,25,1.br Palmeiras,2001,4,0,173,1.9,1,0,1,1,0,0,0,0,0.52,0.00,0.52,0.52,0.52,Matches,bf4cbc22
+584,Fiston Mayele,FW,cd Congo DR,31,1.eg Pyramids FC,1994,2,0,42,0.5,1,0,1,1,0,0,0,0,2.14,0.00,2.14,2.14,2.14,Matches,0d113a00
+585,Ibrahim Maza,MFFW,dz Algeria,20,1.de Leverkusen,2005,4,4,351,3.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,89b3bc5e
+586,Noussair Mazraoui,DF,ma Morocco,28,1.eng Manchester Utd,1997,6,5,477,5.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b74277a0
+587,Kylian Mbappé,FW,fr France,27,1.es Real Madrid,1998,8,8,695,7.7,10,4,14,9,1,2,1,0,1.29,0.52,1.81,1.17,1.68,Matches,42fd9c7f
+588,Thalente Mbatha,MF,za South Africa,26,1.za Orlando Pirates,2000,4,2,260,2.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,f6272be9
+589,Ibrahim Mbaye,MF,sn Senegal,18,1.fr PSG,2008,4,1,157,1.7,1,0,1,1,0,0,0,0,0.57,0.00,0.57,0.57,0.57,Matches,201b4ee4
+590,Chancel Mbemba,DF,cd Congo DR,31,1.fr Lille,1994,4,4,360,4.0,0,1,1,0,0,0,1,0,0.00,0.25,0.25,0.00,0.25,Matches,e76cb9cc
+591,Mbekezeli Mbokazi,DF,za South Africa,20,1.us Chicago Fire,2005,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,13398d42
+592,Nathanaël Mbuku,MFFW,cd Congo DR,24,2.fr Montpellier,2002,3,2,143,1.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,46750e9c
+593,Callum McCowatt,MF,nz New Zealand,27,1.dk Silkeborg,1999,3,2,159,1.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,3fc42049
+594,John McGinn,MF,sct Scotland,31,1.eng Aston Villa,1994,3,3,259,2.9,1,0,1,1,0,0,0,0,0.35,0.00,0.35,0.35,0.35,Matches,90f91999
+595,Scott McKenna,DF,sct Scotland,29,1.hr Dinamo Zagreb,1996,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4e5a4cbc
+596,Weston McKennie,MF,us USA,27,1.it Juventus,1998,5,5,443,4.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,01c3aff5
+597,Mark McKenzie,DF,us USA,27,1.fr Toulouse,1999,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a5f5d094
+598,Kenny McLean,MF,sct Scotland,34,2.eng Norwich City,1992,3,1,118,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,471f16b3
+599,Scott McTominay,MF,sct Scotland,29,1.it Napoli,1996,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d93c2511
+600,Brandon Mechele,DF,be Belgium,33,1.be Club Brugge,1993,6,6,570,6.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0a6dbbf7
+601,Facundo Medina,DF,ar Argentina,27,1.fr Marseille,1999,5,3,308,3.4,0,1,1,0,0,0,1,0,0.00,0.29,0.29,0.00,0.29,Matches,6f5ec8bb
+602,Yaimar Medina,DFMF,ec Ecuador,21,1.be Genk,2004,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1fe8ecf7
+603,Hannibal Mejbri,MF,tn Tunisia,23,1.eng Burnley,2003,3,3,270,3.0,0,2,2,0,0,0,0,0,0.00,0.67,0.67,0.00,0.67,Matches,ca22ccb0
+604,Amar Memić,MF,ba Bosnia–Herz,25,1.cz Viktoria Plzeň,2001,4,2,224,2.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,918c187c
+605,Memphis,FWMF,nl Netherlands,32,1.br Corinthians,1994,3,0,54,0.6,0,1,1,0,0,0,1,0,0.00,1.67,1.67,0.00,1.67,Matches,8f696594
+606,Sultan Mendash,MF,sa Saudi Arabia,31,1.sa Al-Hilal,1994,1,1,65,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8738a7a1
+607,Lucas Mendes,DF,qa Qatar,35,1.qa Al-Wakrah,1990,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5169f27f
+608,Nuno Mendes,DF,pt Portugal,23,1.fr PSG,2002,5,5,395,4.4,1,0,1,1,0,0,0,0,0.23,0.00,0.23,0.23,0.23,Matches,f20e4cc9
+609,Ryan Mendes,FWMF,cv Cabo Verde,36,2.tr 76 Iğdır Belediyespor,1990,4,4,330,3.7,0,1,1,0,0,0,0,0,0.00,0.27,0.27,0.00,0.27,Matches,ba6e01ab
+610,Édouard Mendy,GK,sn Senegal,34,1.sa Al-Ahli,1992,2,2,152,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,33887998
+611,Gideon Mensah,DF,gh Ghana,27,1.fr Auxerre,1998,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,9bdd8118
+612,Mikel Merino,MF,es Spain,29,1.eng Arsenal,1996,8,1,199,2.2,2,0,2,2,0,0,0,0,0.90,0.00,0.90,0.90,0.90,Matches,d080ed5e
+613,Lionel Messi,FW,ar Argentina,38,1.us Inter Miami,1987,8,7,740,8.2,8,4,12,8,0,2,0,0,0.97,0.49,1.46,0.97,1.46,Matches,d70ce98e
+614,Connor Metcalfe,MF,au Australia,26,1.de St Pauli,1999,4,3,315,3.5,1,0,1,1,0,0,0,0,0.29,0.00,0.29,0.29,0.29,Matches,73ce4d7d
+615,Thomas Meunier,DF,be Belgium,34,1.fr Lille,1991,3,2,190,2.1,0,1,1,0,0,0,0,0,0.00,0.47,0.47,0.00,0.47,Matches,e162b013
+616,Liam Millar,MF,ca Canada,26,2.eng Hull City,1999,3,2,162,1.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,983515f8
+617,Kim Min-jae,DF,kr Korea Republic,29,1.de Bayern Munich,1996,3,3,245,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e0f8151c
+618,Yerry Mina,DF,co Colombia,31,1.it Cagliari,1994,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6d5701f2
+619,Alan Minda,MF,ec Ecuador,23,1.br Atlético Mineiro,2003,1,1,55,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,9cfd5b00
+620,Aubrey Modiba,DF,za South Africa,30,1.za Sundowns,1995,4,4,346,3.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,bb1f97f2
+621,Luka Modrić,MF,hr Croatia,40,1.it Milan,1985,4,4,317,3.5,0,1,1,0,0,0,1,0,0.00,0.28,0.28,0.00,0.28,Matches,6025fab1
+622,Relebohile Mofokeng,MF,za South Africa,21,1.za Orlando Pirates,2004,3,2,169,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,25c3fb97
+623,Shahriar Moghanlou,FW,ir IR Iran,31,1.ae Al-Ittihad Kalba,1994,3,1,88,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,92f69be8
+624,Milad Mohammadi,DF,ir IR Iran,32,1.ir Persepolis,1993,3,2,205,2.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,740a0e28
+625,Mohammad Mohebi,MF,ir IR Iran,27,1.ru Rostov,1998,3,3,244,2.7,1,0,1,1,0,0,0,0,0.37,0.00,0.37,0.37,0.37,Matches,7b6b53c3
+626,Johan Mojica,DF,co Colombia,33,1.es Mallorca,1992,4,4,390,4.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,608f2092
+627,Teboho Mokoena,MF,za South Africa,29,1.za Sundowns,1997,3,3,270,3.0,1,0,1,0,1,1,2,0,0.33,0.00,0.33,0.00,0.00,Matches,00029b1e
+628,Nahuel Molina,DF,ar Argentina,28,1.es Atlético Madrid,1998,7,5,528,5.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,23610943
+629,Jamiro Monteiro,MF,cv Cabo Verde,32,1.nl Zwolle,1993,4,3,281,3.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d384bddd
+630,César Montes,DF,mx Mexico,29,1.ru Loko Moscow,1997,4,4,314,3.5,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,28e957d7
+631,Gonzalo Montiel,DF,ar Argentina,29,1.ar River Plate,1997,6,2,192,2.1,0,1,1,0,0,0,1,0,0.00,0.47,0.47,0.00,0.47,Matches,374d5158
+632,Kim Moon-hwan,MF,kr Korea Republic,30,1.kr Daejeon Hana,1995,1,1,70,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6bce7dd8
+633,Gilberto Mora,MF,mx Mexico,17,1.mx Tijuana,2008,4,3,213,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,69c9ffe8
+634,Diego Moreira,MF,be Belgium,21,1.fr Strasbourg,2004,1,0,58,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,12de1b0d
+635,Steven Moreira,DF,cv Cabo Verde,31,1.us Columbus Crew,1994,4,3,301,3.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f10983ae
+636,Tshepang Moremi,MF,za South Africa,25,1.za Orlando Pirates,2000,2,0,34,0.4,0,1,1,0,0,0,0,0,0.00,2.65,2.65,0.00,2.65,Matches,546d38f9
+637,Orlando Mosquera,GK,pa Panama,31,1.sa Al-Fayha,1994,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ea34d827
+638,Samir El Mourabet,MF,ma Morocco,20,1.fr Strasbourg,2005,5,0,81,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1a03d055
+639,Samuel Moutoussamy,MF,cd Congo DR,29,1.gr Atromitos,1996,4,4,330,3.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,af0c835b
+640,Akmal Mozgovoy,MF,uz Uzbekistan,27,1.uz Pakhtakor Tashkent FK,1999,3,2,216,2.4,0,1,1,0,0,0,0,0,0.00,0.42,0.42,0.00,0.42,Matches,114cb95b
+641,Lionel Mpasi,GK,cd Congo DR,31,1.fr Le Havre,1994,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5c6b0637
+642,Khuliso Mudau,DF,za South Africa,31,1.za Sundowns,1995,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,75388f92
+643,Tarik Muharemovic,DF,ba Bosnia–Herz,23,1.it Sassuolo,2003,3,3,259,2.9,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,426dda23
+644,Miro Muheim,DFMF,ch Switzerland,28,1.de Hamburger SV,1998,3,0,87,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,844c6a91
+645,Ngal'Ayel Mukau,MF,cd Congo DR,21,1.fr Lille,2004,4,3,195,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,bb461b8a
+646,Mert Müldür,DF,tr Türkiye,27,1.tr Fenerbahçe,1999,3,1,101,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1295552e
+647,Daniel Muñoz,DF,co Colombia,30,1.eng Crystal Palace,1996,5,4,394,4.4,2,0,2,2,0,0,0,0,0.46,0.00,0.46,0.46,0.46,Matches,778ef829
+648,Petar Musa,FW,hr Croatia,28,1.us FC Dallas,1998,2,2,110,1.2,1,0,1,1,0,0,0,0,0.82,0.00,0.82,0.82,0.82,Matches,4567a0b4
+649,Jamal Musiala,MF,de Germany,23,1.de Bayern Munich,2003,4,3,270,3.0,1,0,1,1,0,0,1,0,0.33,0.00,0.33,0.33,0.33,Matches,2c0558b8
+650,Fernando Muslera,GK,uy Uruguay,39,1.tr Galatasaray,1986,3,3,225,2.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a2abe631
+651,Phillipp Mwene,DF,at Austria,32,1.de Mainz 05,1994,2,2,147,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2ff76adc
+652,David Møller Wolfe,DF,no Norway,24,1.eng Wolves,2002,5,5,430,4.8,0,1,1,0,0,0,0,0,0.00,0.21,0.21,0.00,0.21,Matches,9affc5f2
+653,Yūto Nagatomo,DFMF,jp Japan,39,1.jp FC Tokyo,1986,1,0,16,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4b6960d2
+654,Keito Nakamura,MF,jp Japan,25,2.fr Reims,2000,4,4,307,3.4,1,1,2,1,0,0,0,0,0.29,0.29,0.59,0.29,0.59,Matches,d97af612
+655,Abdallah Nasib,DF,jo Jordan,32,1.iq Al-Zawra'a SC,1994,3,3,260,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,aaab3072
+656,Sherzod Nasrullaev,DFMF,uz Uzbekistan,27,1.uz FC Nasaf,1998,3,3,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,aeb0c7f7
+657,Duckens Nazon,FWMF,ht Haiti,32,1.ir Esteghlal,1994,1,0,24,0.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,20e87a42
+658,Iliman Ndiaye,FW,sn Senegal,26,1.eng Everton,2000,3,1,114,1.3,1,2,3,1,0,0,0,0,0.79,1.58,2.37,0.79,2.37,Matches,5ed97752
+659,Dan Ndoye,MFFW,ch Switzerland,25,1.eng Nottingham,2000,6,5,406,4.5,2,0,2,2,0,0,0,0,0.44,0.00,0.44,0.44,0.44,Matches,8e697a8f
+660,Jayden Nelson,FWMF,ca Canada,23,1.us Austin FC,2002,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,92305a81
+661,Ali Nemati,DF,ir IR Iran,30,1.ir Foolad,1996,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,19a221f7
+662,Abduvohid Nematov,GK,uz Uzbekistan,25,1.uz FC Nasaf,2001,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,25e45f2a
+663,Pedro Neto,MF,pt Portugal,26,1.eng Chelsea,2000,5,5,350,3.9,0,1,1,0,0,0,0,0,0.00,0.26,0.26,0.00,0.26,Matches,7ba2eaa9
+664,Manuel Neuer,GK,de Germany,40,1.de Bayern Munich,1986,4,4,390,4.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8778c910
+665,João Neves,MF,pt Portugal,21,1.fr PSG,2004,5,4,390,4.3,1,0,1,1,0,0,0,0,0.23,0.00,0.23,0.23,0.23,Matches,c2a15a27
+666,Rúben Neves,MF,pt Portugal,29,1.sa Al-Hilal,1997,2,1,55,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,44bfb6c5
+667,Neymar,FWMF,br Brazil,34,1.br Santos,1992,2,0,39,0.4,1,0,1,0,1,1,1,0,2.31,0.00,2.31,0.00,0.00,Matches,69384e5d
+668,Nathan Ngoy,DF,be Belgium,23,1.fr Lille,2003,4,4,335,3.7,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,eb7abf2e
+669,Moussa Niakhaté,DF,sn Senegal,30,1.fr Lyon,1996,4,4,390,4.3,0,1,1,0,0,0,0,0,0.00,0.23,0.23,0.00,0.23,Matches,00242715
+670,Gustaf Nilsson,FW,se Sweden,29,1.be Club Brugge,1997,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a7d48b00
+671,Felix Nmecha,MF,de Germany,25,1.de Dortmund,2000,4,4,270,3.0,1,1,2,1,0,0,0,0,0.33,0.33,0.67,0.33,0.67,Matches,091c86e2
+672,Kristoffer Nordfeldt,GK,se Sweden,36,1.se AIK Stockholm,1989,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,78549904
+673,Tyrese Noslin,MF,cw Curaçao,23,1.nl Telstar,2002,1,0,14,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c3709bd2
+674,Ernest Nuamah,MF,gh Ghana,22,1.fr Lyon,2003,3,1,89,1.0,0,1,1,0,0,0,0,0,0.00,1.01,1.01,0.00,1.01,Matches,234a703c
+675,Matheus Nunes,DFMF,pt Portugal,27,1.eng Manchester City,1998,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e6af02e0
+676,Darwin Núñez,FW,uy Uruguay,26,1.sa Al-Hilal,1999,3,2,156,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4d77b365
+677,Antonio Nusa,FW,no Norway,21,1.de RB Leipzig,2005,6,4,318,3.5,1,0,1,1,0,0,1,0,0.28,0.00,0.28,0.28,0.28,Matches,4ab12002
+678,Benjamin Nygren,MF,se Sweden,24,1.sct Celtic,2001,4,2,130,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d6ebf67f
+679,Ørjan Nyland,GK,no Norway,35,1.es Sevilla,1990,5,5,480,5.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,bdedffac
+680,Aiden O'Neill,MF,au Australia,27,1.us NYCFC,1998,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c7aee75b
+681,Nico O'Reilly,DF,eng England,21,1.eng Manchester City,2005,7,5,461,5.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,91ca4a16
+682,Salim Obaid,DF,jo Jordan,34,1.jo Al-Hussein SC,1992,3,0,21,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f494bf5f
+683,Armando Obispo,DF,cw Curaçao,27,1.nl PSV,1999,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2ffa6348
+684,Guillermo Ochoa,GK,mx Mexico,40,1.cy AEL Limassol,1985,1,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1e9bde92
+685,Kōki Ogawa,FW,jp Japan,28,1.nl NEC Nijmegen,1997,3,0,42,0.5,0,1,1,0,0,0,0,0,0.00,2.14,2.14,0.00,2.14,Matches,3d2e8955
+686,Braian Ojeda,MF,py Paraguay,25,1.us Orlando City,2000,1,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,60953af0
+687,Noah Okafor,FWMF,ch Switzerland,26,1.eng Leeds United,2000,1,0,20,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ca607d59
+688,Ime Okon,DF,za South Africa,22,2.de Hannover 96,2004,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,3cb58055
+689,Paul Okon-Engstler,MF,au Australia,21,1.au Sydney FC,2005,4,2,197,2.2,0,1,1,0,0,0,0,0,0.00,0.46,0.46,0.00,0.46,Matches,ecd6464a
+690,Ben Old,MF,nz New Zealand,23,2.fr Saint-Étienne,2002,3,0,93,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e14e818c
+691,Michael Olise,MF,fr France,24,1.de Bayern Munich,2001,8,8,646,7.2,0,7,7,0,0,0,1,0,0.00,0.98,0.98,0.00,0.98,Matches,c4486bac
+692,Mathías Olivera,DF,uy Uruguay,28,1.it Napoli,1997,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,41c12f75
+693,Dani Olmo,MF,es Spain,28,1.es Barcelona,1998,8,6,491,5.5,0,2,2,0,0,0,0,0,0.00,0.37,0.37,0.00,0.37,Matches,ae44e8e2
+694,Tani Oluwaseyi,FW,ca Canada,26,1.es Villarreal,2000,5,3,259,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,950ef017
+695,Ali Olwan,MF,jo Jordan,26,1.qa Al-Sailiya SC,2000,3,3,268,3.0,1,0,1,1,0,0,0,0,0.34,0.00,0.34,0.34,0.34,Matches,33c1d68d
+696,Amadou Onana,MF,be Belgium,24,1.eng Aston Villa,2001,4,2,106,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,828657ff
+697,Christopher Opéri,DF,ci Côte d'Ivoire,29,1.tr Başakşehir,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,914bb955
+698,Jerome Opoku,DF,gh Ghana,27,1.tr Başakşehir,1998,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,091d6ee5
+699,Joel Ordóñez,DF,ec Ecuador,22,1.be Club Brugge,2004,3,3,225,2.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2990a15c
+700,Jonathan Osorio,MF,ca Canada,34,1.us Toronto FC,1992,2,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,70106ff6
+701,Nicolás Otamendi,DF,ar Argentina,38,1.pt Benfica,1988,7,1,247,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0d267745
+702,Zakaria El Ouahdi,DFMF,ma Morocco,24,1.be Genk,2001,1,0,17,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a3d79d3c
+703,Ayoub Al-Oui,DF,qa Qatar,21,1.qa Al-Gharafa Sports Club,2005,2,2,149,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,010e5bae
+704,Azzedine Ounahi,MF,ma Morocco,26,1.es Girona,2000,6,5,435,4.8,2,0,2,2,0,0,1,0,0.41,0.00,0.41,0.41,0.41,Matches,83299cc0
+705,Mohammed Al-Owais,GK,sa Saudi Arabia,34,1.sa Al-Ula,1991,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f2c060c6
+706,Elisha Owusu,MF,gh Ghana,28,1.fr Auxerre,1997,3,2,151,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e2781082
+707,Mikel Oyarzabal,FW,es Spain,29,1.es Real Sociedad,1997,8,8,601,6.7,5,1,6,4,1,1,0,0,0.75,0.15,0.90,0.60,0.75,Matches,8c3c640c
+708,Salih Özcan,MF,tr Türkiye,28,1.de Dortmund,1998,2,1,100,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,15413fa5
+709,Willian Pacho,DF,ec Ecuador,24,1.fr PSG,2001,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ecbe2839
+710,Kendry Páez,MF,ec Ecuador,19,1.ar River Plate,2007,1,0,12,0.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,f3bb9f59
+711,Exequiel Palacios,DF,ar Argentina,27,1.de Leverkusen,1998,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e82adcab
+712,Lucas Paquetá,MF,br Brazil,28,1.br Flamengo,1997,4,4,233,2.6,0,1,1,0,0,0,0,0,0.00,0.39,0.39,0.00,0.39,Matches,9b6f7fd5
+713,Leandro Paredes,MF,ar Argentina,31,1.ar Boca Juniors,1994,7,4,473,5.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,dff153a4
+714,Thomas Partey,MF,gh Ghana,33,1.es Villarreal,1993,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,529f49ab
+715,Marco Pašalić,MF,hr Croatia,25,1.us Orlando City,2000,3,1,99,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1866b0f1
+716,Mario Pašalić,MF,hr Croatia,31,1.it Atalanta,1995,4,1,123,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e599253a
+717,Nathan Patterson,DF,sct Scotland,24,1.eng Everton,2001,3,2,185,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,230f0471
+718,João Paulo Fernandes,DF,cv Cabo Verde,28,1.ro FCSB,1998,2,1,105,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,afcac9da
+719,Aleksandar Pavlovic,MF,de Germany,22,1.de Bayern Munich,2004,4,4,272,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2658c82f
+720,Tim Payne,DF,nz New Zealand,32,1.au Wellington,1994,3,3,224,2.5,0,1,1,0,0,0,0,0,0.00,0.40,0.40,0.00,0.40,Matches,4e86877c
+721,Nicolás Paz,MF,ar Argentina,21,1.it Como,2004,2,1,71,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,01bb93d5
+722,Marcus Pedersen,DF,no Norway,25,1.it Torino,2000,4,1,236,2.6,1,0,1,1,0,0,0,0,0.38,0.00,0.38,0.38,0.38,Matches,596cc50e
+723,Pedri,MF,es Spain,23,1.es Barcelona,2002,8,5,499,5.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0d9b2d31
+724,Nicolas Pépé,FW,ci Côte d'Ivoire,31,1.es Villarreal,1995,4,3,234,2.6,2,1,3,2,0,0,1,0,0.77,0.38,1.15,0.77,1.15,Matches,57e3f0c7
+725,Ricardo Pepi,FW,us USA,23,1.nl PSV,2003,5,2,204,2.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a2b1ed42
+726,Kojo Peprah Oppong,DF,gh Ghana,22,1.fr Nice,2004,2,0,49,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,37a6fdb3
+727,Ivan Perišić,MFDF,hr Croatia,37,1.nl PSV,1989,4,4,360,4.0,1,1,2,1,0,0,2,0,0.25,0.25,0.50,0.25,0.50,Matches,6fe90922
+728,Jens Petter Hauge,DFFW,no Norway,26,1.no Bodø/Glimt,1999,1,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,12c35abe
+729,Charles Pickel,DFMF,cd Congo DR,29,1.es Espanyol,1997,2,0,35,0.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,f71ad8cb
+730,Jordan Pickford,GK,eng England,32,1.eng Everton,1994,7,7,660,7.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4806ec67
+731,Pico,DF,cv Cabo Verde,33,1.ie Shamrock,1992,4,4,390,4.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,faef0f92
+732,Frantzdy Pierrot,FW,ht Haiti,31,1.tr Rizespor,1995,3,2,143,1.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,307877be
+733,Kevin Pina,MF,cv Cabo Verde,29,1.ru Krasnodar,1997,4,4,349,3.9,1,0,1,1,0,0,1,0,0.26,0.00,0.26,0.26,0.26,Matches,296026ae
+734,Wagner Pina,DF,cv Cabo Verde,23,1.tr Trabzonspor,2002,1,1,89,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,9bf22b95
+735,Orbelín Pineda,FWMF,mx Mexico,30,1.gr AEK Athens,1996,2,0,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,411fabd7
+736,Yéremy Pino,FWMF,es Spain,23,1.eng Crystal Palace,2002,2,0,70,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,540ec57b
+737,Isidro Pitta,FW,py Paraguay,26,1.br RB Bragantino,1999,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e9fc7295
+738,Johny Placide,GK,ht Haiti,38,2.fr Bastia,1988,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,f1666a9d
+739,Gonzalo Plata,FW,ec Ecuador,25,1.br Flamengo,2000,4,4,360,4.0,1,0,1,1,0,0,1,0,0.25,0.00,0.25,0.25,0.25,Matches,54bcdeb0
+740,Marin Pongračić,DF,hr Croatia,28,1.it Fiorentina,1997,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2a6cd437
+741,Jackson Porozo,DF,ec Ecuador,25,1.mx Tijuana,2000,1,0,29,0.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,7d704e92
+742,Pedro Porro,DF,es Spain,26,1.eng Tottenham,1999,6,6,563,6.3,2,0,2,2,0,0,0,0,0.32,0.00,0.32,0.32,0.32,Matches,27d0a506
+743,Stefan Posch,DF,at Austria,29,1.de Mainz 05,1997,4,4,331,3.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,7f609bfc
+744,Alexander Prass,DFMF,at Austria,25,1.de Hoffenheim,2001,2,0,29,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6637e6a7
+745,Ángelo Preciado,DFMF,ec Ecuador,28,1.br Atlético Mineiro,1998,4,0,109,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,eadc8e4f
+746,Ruben Providence,MF,ht Haiti,24,2.nl Almere City,2001,3,3,220,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,26bab383
+747,Lukáš Provod,FW,cz Czechia,29,1.cz Slavia Prague,1996,3,1,122,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8f21b7bd
+748,Marc Pubill,DF,es Spain,22,1.es Atlético Madrid,2003,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,365113c0
+749,Gustavo Puerta,MF,co Colombia,22,2.es Racing Sant,2003,5,5,469,5.2,0,1,1,0,0,0,1,0,0.00,0.19,0.19,0.00,0.19,Matches,2c08cab0
+750,Christian Pulisic,MF,us USA,27,1.it Milan,1998,4,3,223,2.5,0,1,1,0,0,0,0,0,0.00,0.40,0.40,0.00,0.40,Matches,1bf33a9a
+751,Ahmed Qasem,MFFW,iq Iraq,22,1.us Nashville SC,2003,3,2,123,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,27219ecb
+752,Jarell Quansah,DF,eng England,23,1.de Leverkusen,2003,3,3,197,2.2,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,4125cb98
+753,Julián Quiñones,FWMF,mx Mexico,29,1.sa Al-Qadsiah,1997,5,5,410,4.6,4,1,5,4,0,0,0,0,0.88,0.22,1.10,0.88,1.10,Matches,5535c728
+754,Alberto Quintero,FWMF,pa Panama,38,1.pa Plaza Amador,1987,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5854ae43
+755,Juan Quintero,FWMF,co Colombia,33,1.ar River Plate,1993,4,0,121,1.3,0,1,1,0,0,0,0,0,0.00,0.74,0.74,0.00,0.74,Matches,540d0b37
+756,Ramy Rabia,DF,eg Egypt,33,1.ae Al Ain,1993,5,3,372,4.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e32afa36
+757,Adrien Rabiot,MF,fr France,31,1.it Milan,1995,7,7,585,6.5,0,1,1,0,0,0,1,0,0.00,0.15,0.15,0.00,0.15,Matches,8794e251
+758,Stjepan Radeljić,DF,ba Bosnia–Herz,28,1.hr Rijeka,1997,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,30e03a25
+759,Soufiane Rahimi,FW,ma Morocco,30,1.ae Al Ain,1996,6,0,163,1.8,2,1,3,2,0,0,0,0,1.10,0.55,1.66,1.10,1.66,Matches,f126a259
+760,Abdul Rahman Baba,DFMF,gh Ghana,31,1.gr PAOK,1994,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e4086af3
+761,Anthony Ralston,DF,sct Scotland,27,1.sct Celtic,1998,2,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,56208b05
+762,Gonçalo Ramos,FW,pt Portugal,24,1.fr PSG,2001,2,0,36,0.4,1,0,1,1,0,0,0,0,2.50,0.00,2.50,2.50,2.50,Matches,f63cda26
+763,Jiovany Ramos,DF,pa Panama,29,1.ve Puerto Cabello,1997,2,2,166,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,30cda59f
+764,Jesse Randall,MF,nz New Zealand,23,1.au Auckland FC,2002,3,0,61,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,513ec88e
+765,Raúl Rangel,GK,mx Mexico,26,1.mx Guadalajara,2000,5,5,437,4.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,15f733fb
+766,Raphinha,MFFW,br Brazil,29,1.es Barcelona,1996,2,2,129,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,3423f250
+767,Nizar Al Rashdan,MF,jo Jordan,27,1.qa Qatar SC,1999,3,3,255,2.8,1,0,1,1,0,0,0,0,0.35,0.00,0.35,0.35,0.35,Matches,feaa0ffd
+768,Marcus Rashford,MF,eng England,28,1.es Barcelona,1997,6,3,223,2.5,1,1,2,1,0,0,0,0,0.40,0.40,0.81,0.40,0.81,Matches,a1d5bd30
+769,Nicolas Raskin,MF,be Belgium,25,1.sct Rangers,2001,6,3,341,3.8,0,2,2,0,0,0,0,0,0.00,0.53,0.53,0.00,0.53,Matches,dba1f190
+770,David Raum,DF,de Germany,28,1.de RB Leipzig,1998,2,1,108,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,7d450ed3
+771,Noor Al Rawabdeh,MF,jo Jordan,29,1.my Selangor FA,1997,3,3,270,3.0,0,1,1,0,0,0,0,0,0.00,0.33,0.33,0.00,0.33,Matches,3bb06c86
+772,Rayan,FWMF,br Brazil,19,1.eng Bournemouth,2006,4,3,288,3.2,0,1,1,0,0,0,0,0,0.00,0.31,0.31,0.00,0.31,Matches,288647fc
+773,Iqraam Rayners,FW,za South Africa,30,1.za Sundowns,1995,4,2,161,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,190b0d5e
+774,Tim Ream,DF,us USA,38,1.us Charlotte,1987,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,28b40c9c
+775,Tijjani Reijnders,MF,nl Netherlands,27,1.eng Manchester City,1998,3,3,199,2.2,0,1,1,0,0,0,0,0,0.00,0.45,0.45,0.00,0.45,Matches,afb61630
+776,Omar Rekik,DF,tn Tunisia,24,1.si NK Maribor,2001,2,2,180,2.0,1,0,1,1,0,0,0,0,0.50,0.00,0.50,0.50,0.50,Matches,e69e0f7b
+777,Israel Reyes,DF,mx Mexico,26,1.mx América,2000,4,2,202,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0db8bbc4
+778,Gio Reyna,MF,us USA,23,1.de Gladbach,2002,5,1,131,1.5,1,0,1,1,0,0,0,0,0.69,0.00,0.69,0.69,0.69,Matches,7fa4e703
+779,Ramin Rezaeian,DFMF,ir IR Iran,36,1.ir Foolad,1990,3,3,270,3.0,2,1,3,2,0,0,0,0,0.67,0.33,1.00,0.67,1.00,Matches,c0ae3446
+780,Chadi Riad,DF,ma Morocco,22,1.eng Crystal Palace,2003,4,4,344,3.8,0,1,1,0,0,0,0,0,0.00,0.26,0.26,0.00,0.26,Matches,b3b9b8b8
+781,Declan Rice,MF,eng England,27,1.eng Arsenal,1999,7,7,557,6.2,1,2,3,1,0,0,2,0,0.16,0.32,0.48,0.16,0.48,Matches,1c7012b8
+782,Chris Richards,DF,us USA,26,1.eng Crystal Palace,2000,4,4,360,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0a3d6d2b
+783,Fabian Rieder,MFFW,ch Switzerland,24,1.de Augsburg,2002,5,3,302,3.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c2bd8585
+784,Richard Ríos,MF,co Colombia,26,1.pt Benfica,2000,5,0,140,1.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,72da065d
+785,Ró-Ró,DF,qa Qatar,35,1.qa Al Sadd,1990,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8735fe66
+786,Andy Robertson,DF,sct Scotland,32,1.eng Liverpool,1994,3,3,225,2.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2e4f5f03
+787,Antonee Robinson,DFMF,us USA,28,1.eng Fulham,1997,4,4,348,3.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,289601e6
+788,Miles Robinson,DF,us USA,29,1.us FC Cincinnati,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,782a95d9
+789,Sergio Rochet,GK,uy Uruguay,33,1.br Internacional,1993,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,81b99b9e
+790,Rodri,MF,es Spain,29,1.eng Manchester City,1996,8,8,724,8.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6434f10d
+791,Garry Rodrigues,MF,cv Cabo Verde,35,1.cy Apollon Limassol,1990,2,1,76,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,149895bf
+792,Brian Rodríguez,FWMF,uy Uruguay,26,1.mx América,2000,3,0,41,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c86041d7
+793,James Rodríguez,FWMF,co Colombia,34,1.us Minnesota Utd,1991,5,5,313,3.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,715bf047
+794,Kevin Rodríguez,FW,ec Ecuador,26,1.be Union SG,2000,4,0,118,1.3,0,1,1,0,0,0,0,0,0.00,0.76,0.76,0.00,0.76,Matches,189fb038
+795,Ricardo Rodríguez,DF,ch Switzerland,33,1.es Real Betis,1992,6,6,517,5.7,0,1,1,0,0,0,0,0,0.00,0.17,0.17,0.00,0.17,Matches,7f78ad23
+796,Tomás Rodríguez,FW,pa Panama,27,1.cr Saprissa,1999,2,1,46,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,59f97bc8
+797,Godfried Roemeratoe,MF,cw Curaçao,26,2.nl RKC Waalwijk,1999,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a646b710
+798,Morgan Rogers,MF,eng England,23,1.eng Aston Villa,2002,7,3,339,3.8,0,1,1,0,0,0,0,0,0.00,0.27,0.27,0.00,0.27,Matches,2e5915f1
+799,Cristian Romero,DF,ar Argentina,28,1.eng Tottenham,1998,7,7,608,6.8,1,0,1,1,0,0,2,0,0.15,0.00,0.15,0.15,0.15,Matches,a3d94a58
+800,Luis Romo,MF,mx Mexico,31,1.mx Guadalajara,1995,4,4,264,2.9,1,1,2,1,0,0,0,0,0.34,0.34,0.68,0.34,0.68,Matches,e590bb10
+801,Cristiano Ronaldo,FW,pt Portugal,41,1.sa Al-Nassr,1985,5,5,440,4.9,3,0,3,2,1,1,0,0,0.61,0.00,0.61,0.41,0.41,Matches,dea698d9
+802,Eloy Room,GK,cw Curaçao,37,2.us Miami FC,1989,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6b33d86b
+803,Marten de Roon,DFMF,nl Netherlands,35,1.it Atalanta,1991,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2a1beb34
+804,Saed Al-Rosan,DF,jo Jordan,29,1.jo Al-Hussein SC,1997,1,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f3115445
+805,Antonio Rüdiger,DF,de Germany,33,1.es Real Madrid,1993,4,2,262,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,18b896d6
+806,Fabián Ruiz Peña,MF,es Spain,30,1.fr PSG,1996,8,4,321,3.6,1,0,1,1,0,0,0,0,0.28,0.00,0.28,0.28,0.28,Matches,c0c7ff58
+807,Mathew Ryan,GK,au Australia,34,1.es Levante,1992,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4535e4bb
+808,Julian Ryerson,DF,no Norway,28,1.de Dortmund,1997,4,4,223,2.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,009a4f60
+809,Elias Saad,MFFW,tn Tunisia,26,2.de Hannover 96,1999,2,2,116,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,78a2284f
+810,Marwane Saâdane,DFMF,ma Morocco,34,1.sa Al-Fateh,1992,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,14f47102
+811,Mustafa Saadoon,DF,iq Iraq,25,1.iq Al-Shorta,2001,1,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,928dc5c9
+812,Mahmoud Saber,MF,eg Egypt,24,1.eg ZED,2001,2,1,46,0.5,1,0,1,1,0,0,1,0,1.96,0.00,1.96,1.96,1.96,Matches,632c42f5
+813,Marcel Sabitzer,MF,at Austria,32,1.de Dortmund,1994,4,4,360,4.0,1,0,1,1,0,0,1,0,0.25,0.00,0.25,0.25,0.25,Matches,e280527c
+814,Noah Sadiki,MF,cd Congo DR,21,1.eng Sunderland,2004,4,2,259,2.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,645481cc
+815,Michal Sadílek,MF,cz Czechia,27,1.cz Slavia Prague,1999,3,2,183,2.0,1,0,1,1,0,0,0,0,0.49,0.00,0.49,0.49,0.49,Matches,7c9fa389
+816,Alexis Saelemaekers,MF,be Belgium,26,1.it Milan,1999,4,1,83,0.9,1,0,1,1,0,0,0,0,1.08,0.00,1.08,1.08,1.08,Matches,ee251371
+817,Ismael Saibari,FW,ma Morocco,25,1.nl PSV,2001,5,5,381,4.2,3,0,3,3,0,0,0,0,0.71,0.00,0.71,0.71,0.71,Matches,3ec9f005
+818,Bukayo Saka,MF,eng England,24,1.eng Arsenal,2001,7,3,358,4.0,3,3,6,2,1,1,0,0,0.75,0.75,1.51,0.50,1.26,Matches,bc7dc64d
+819,Mohamed Salah,FWMF,eg Egypt,33,1.eng Liverpool,1992,5,5,425,4.7,1,2,3,1,0,0,0,0,0.21,0.42,0.64,0.21,0.64,Matches,e342ad68
+820,Anass Salah-Eddine,DF,ma Morocco,24,1.nl PSV,2002,4,2,212,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0d274394
+821,Nathan Saliba,MF,ca Canada,22,1.be Anderlecht,2004,3,2,182,2.0,1,2,3,1,0,0,1,0,0.49,0.99,1.48,0.49,1.48,Matches,44cfc681
+822,William Saliba,DF,fr France,25,1.eng Arsenal,2001,6,6,479,5.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,972aeb2a
+823,Shurandy Sambo,DF,cw Curaçao,24,1.nl Sparta R.,2001,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4b1d5a70
+824,Antonio Sanabria,FW,py Paraguay,30,1.it Cremonese,1996,2,1,83,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0a447501
+825,Davinson Sánchez,DF,co Colombia,30,1.tr Galatasaray,1996,5,5,480,5.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,da7b447d
+826,Jorge Sánchez,DF,mx Mexico,28,1.gr PAOK,1997,4,4,348,3.9,0,1,1,0,0,0,1,0,0.00,0.26,0.26,0.00,0.26,Matches,c8d1c3a5
+827,Alex Sandro,DFMF,br Brazil,35,1.br Flamengo,1991,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0d82903c
+828,Leroy Sané,MF,de Germany,30,1.tr Galatasaray,1996,4,4,326,3.6,1,0,1,1,0,0,0,0,0.28,0.00,0.28,0.28,0.28,Matches,2b114be3
+829,Ibrahim Sangaré,MF,ci Côte d'Ivoire,28,1.eng Nottingham,1997,4,3,268,3.0,0,1,1,0,0,0,0,0,0.00,0.34,0.34,0.00,0.34,Matches,bced0375
+830,Kaishū Sano,MF,jp Japan,25,1.de Mainz 05,2000,3,3,270,3.0,1,1,2,1,0,0,1,0,0.33,0.33,0.67,0.33,0.67,Matches,7a7a6361
+831,Danilo Santos,MF,br Brazil,25,1.br Botafogo–RJ,2001,4,0,46,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a816dbfb
+832,Douglas Santos,DF,br Brazil,32,1.ru Zenit,1994,5,5,441,4.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,c50e5bba
+833,Bara Sapoko Ndiaye,MF,sn Senegal,18,1.de Bayern Munich,2007,1,0,26,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,fa080d50
+834,Ismaila Sarr,MFFW,sn Senegal,28,1.eng Crystal Palace,1998,4,4,364,4.0,4,1,5,4,0,0,0,0,0.99,0.25,1.24,0.99,1.24,Matches,bfdb33aa
+835,Farrukh Sayfiev,DFMF,uz Uzbekistan,35,1.uz Neftchi FK,1991,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,bad66fb5
+836,Amine Sbai,FWMF,ma Morocco,25,1.fr Angers,2000,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,bafbe06a
+837,Joe Scally,DF,us USA,23,1.de Gladbach,2002,2,1,87,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,236f02cd
+838,Patrik Schick,FW,cz Czechia,30,1.de Leverkusen,1996,3,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5d4f7d61
+839,Andreas Schjelderup,FW,no Norway,22,1.pt Benfica,2004,6,2,252,2.8,1,3,4,1,0,0,0,0,0.36,1.07,1.43,0.36,1.43,Matches,a427724f
+840,Alexander Schlager,GK,at Austria,30,1.at RB Salzburg,1996,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6fe5c35b
+841,Xaver Schlager,MF,at Austria,28,1.de RB Leipzig,1997,4,4,238,2.6,0,1,1,0,0,0,0,0,0.00,0.38,0.38,0.00,0.38,Matches,8f056768
+842,Nico Schlotterbeck,DF,de Germany,26,1.de Dortmund,1999,2,2,135,1.5,1,0,1,1,0,0,0,0,0.67,0.00,0.67,0.67,0.67,Matches,34e12499
+843,Romano Schmid,MFFW,at Austria,26,1.de Werder Bremen,2000,4,4,263,2.9,1,0,1,1,0,0,0,0,0.34,0.00,0.34,0.34,0.34,Matches,220ace7e
+844,Kamogelo Sebelebele,DFMF,za South Africa,23,1.za Orlando Pirates,2002,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,cc014f7d
+845,Abdoulaye Seck,DF,sn Senegal,34,1.il Maccabi Haifa,1992,1,1,57,0.6,0,1,1,0,0,0,1,0,0.00,1.58,1.58,0.00,1.58,Matches,f07a0fe5
+846,Alidu Seidu,DF,gh Ghana,26,1.fr Rennes,2000,1,0,78,0.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,cea59f02
+847,Nicolas Seiwald,MF,at Austria,25,1.de RB Leipzig,2001,4,4,315,3.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,28c6e925
+848,Ayumu Seko,DF,jp Japan,26,1.fr Le Havre,2000,2,1,86,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5c6a4059
+849,Egil Selvik,GK,no Norway,28,2.eng Watford,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,05d89c1c
+850,Ken Sema,FWMF,se Sweden,32,1.cy Pafos FC,1993,1,0,16,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1770bd68
+851,Nélson Semedo,DFMF,pt Portugal,32,1.tr Fenerbahçe,1993,4,0,127,1.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,d04b94db
+852,Willy Semedo,FW,cv Cabo Verde,32,1.cy AC Omonia,1994,3,1,131,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d1edc98f
+853,Antoine Semenyo,MFFW,gh Ghana,26,1.eng Manchester City,2000,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,efd2ec23
+854,Marvin Senaya,DF,gh Ghana,25,1.fr Auxerre,2001,4,4,278,3.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1d383c10
+855,Marcos Senesi,DF,ar Argentina,29,1.eng Bournemouth,1997,2,1,109,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,35141f4c
+856,Igor Sergeev,FW,uz Uzbekistan,33,1.ir Persepolis,1993,3,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8df41977
+857,Jean Seri,MF,ci Côte d'Ivoire,34,1.si NK Maribor,1991,1,0,14,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,10efd0e1
+858,Kim Seung-gyu,GK,kr Korea Republic,35,1.jp FC Tokyo,1990,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,eabaafa6
+859,Paik Seung-ho,MF,kr Korea Republic,29,2.eng Birmingham City,1997,3,3,204,2.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1e1bea09
+860,Joaquin Seys,DF,be Belgium,21,1.be Club Brugge,2005,1,0,30,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0beabf0a
+861,Jacob Shaffelburg,MF,ca Canada,26,1.us LAFC,1999,5,0,92,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,339a2561
+862,Mohammed Abu Al-Shamat,MF,sa Saudi Arabia,23,1.sa Al-Qadsiah,2002,3,1,136,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,dd65e243
+863,Lawrence Shankland,FW,sct Scotland,30,1.sct Hearts,1995,2,2,171,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,63b1a176
+864,Sharara,FW,jo Jordan,28,1.ma Raja Casablanca,1997,2,0,2,0.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,67e2aed8
+865,Aimar Sher,MF,iq Iraq,23,1.no Sarpsborg 08,2002,1,0,23,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ef301f96
+866,Kento Shiogai,FW,jp Japan,21,1.de Wolfsburg,2005,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6bc2fef7
+867,Mostafa Shobeir,GK,eg Egypt,26,1.eg Al Ahly,2000,5,5,480,5.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0cb1d2ba
+868,Eldor Shomurodov,FW,uz Uzbekistan,30,1.tr Başakşehir,1995,3,3,269,3.0,1,0,1,1,0,0,0,0,0.33,0.00,0.33,0.33,0.33,Matches,57469b2d
+869,Otabek Shukurov,MF,uz Uzbekistan,29,1.ae Baniyas FC,1996,3,3,237,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,62032a56
+870,Nkosinathi Sibisi,DF,za South Africa,30,1.za Orlando Pirates,1995,1,1,90,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,932f8e2b
+871,Kwasi Sibo,MF,gh Ghana,27,1.es Oviedo,1998,4,3,248,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,be834ad7
+872,Niko Sigur,MF,ca Canada,22,1.hr Hajduk Split,2003,3,1,126,1.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,5c56986b
+873,Bernardo Silva,MF,pt Portugal,31,1.eng Manchester City,1994,4,1,97,1.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,3eb22ec9
+874,Éderson Silva,MF,br Brazil,26,1.it Atalanta,1999,2,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a9202def
+875,Giuliano Simeone,FW,ar Argentina,23,1.es Atlético Madrid,2002,3,2,192,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a6536561
+876,Dominique Simon,MF,ht Haiti,25,1.sk 1. FC Tatran Prešov B,2000,2,0,56,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ffd8e8c5
+877,Unai Simón,GK,es Spain,29,1.es Athletic Club,1997,8,8,750,8.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5dcf3e90
+878,Sarpreet Singh,MF,nz New Zealand,27,1.au Wellington,1999,3,3,209,2.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,4ba886c6
+879,Wilfried Singo,DF,ci Côte d'Ivoire,25,1.tr Galatasaray,2000,2,2,171,1.9,0,1,1,0,0,0,0,0,0.00,0.53,0.53,0.00,0.53,Matches,8b609c34
+880,Sphephelo Sithole,MF,za South Africa,27,1.pt Tondela,1999,3,3,229,2.5,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,33bcd4b3
+881,Ellyes Skhiri,MFDF,tn Tunisia,31,1.de Frankfurt,1995,3,3,250,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c2211709
+882,Alexandr Sojka,MFDF,cz Czechia,23,1.cz Viktoria Plzeň,2003,3,2,141,1.6,0,1,1,0,0,0,0,0,0.00,0.64,0.64,0.00,0.64,Matches,765b7bfc
+883,Ramón Sosa,FWMF,py Paraguay,26,1.br Palmeiras,1999,1,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2d3417a1
+884,Tomáš Souček,MF,cz Czechia,31,1.eng West Ham,1995,3,1,137,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6613c819
+885,Harry Souttar,DF,au Australia,27,2.eng Leicester City,1998,4,4,390,4.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0a6cb1b1
+886,Djibril Sow,MF,ch Switzerland,29,1.es Sevilla,1997,4,2,253,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4c6facae
+887,Çağlar Söyüncü,DF,tr Türkiye,30,1.tr Fenerbahçe,1996,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,21166ff4
+888,Djed Spence,DF,eng England,25,1.eng Tottenham,2000,8,4,404,4.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,9bc9a519
+889,Marko Stamenic,MF,nz New Zealand,24,2.eng Swansea City,2002,3,3,269,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,690d1049
+890,Josip Stanišić,DFMF,hr Croatia,26,1.de Bayern Munich,2000,4,4,360,4.0,0,1,1,0,0,0,0,0,0.00,0.25,0.25,0.00,0.25,Matches,7ed08d5c
+891,Carl Starfelt,DF,se Sweden,31,1.es Celta Vigo,1995,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5cfec13d
+892,Ross Stewart,FW,sct Scotland,29,2.eng Southampton,1996,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,18986367
+893,Angelo Stiller,MF,de Germany,25,1.de Stuttgart,2001,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,3b1ed320
+894,John Stones,DF,eng England,32,1.eng Manchester City,1994,5,3,330,3.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5eecec3d
+895,Jørgen Strand Larsen,FW,no Norway,26,1.eng Crystal Palace,2000,2,1,105,1.2,0,0,0,0,0,1,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f553b2b3
+896,Elliot Stroud,MF,se Sweden,23,1.se Mjällby,2002,4,2,166,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ff11bdec
+897,Luis Suárez,FW,co Colombia,28,1.pt Sporting CP,1997,5,3,331,3.7,0,1,1,0,0,0,1,0,0.00,0.27,0.27,0.00,0.27,Matches,eeba07f8
+898,Luka Sučić,FWMF,hr Croatia,23,1.es Real Sociedad,2002,1,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1e1378e1
+899,Petar Sučić,MFFW,hr Croatia,22,1.it Inter,2003,4,3,289,3.2,1,1,2,1,0,0,1,0,0.31,0.31,0.62,0.31,0.62,Matches,23fb46ea
+900,Yukinari Sugawara,MF,jp Japan,25,1.de Werder Bremen,2000,4,1,148,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,580bcd18
+901,Rebin Sulaka,DF,iq Iraq,34,1.th Port FC,1992,2,1,43,0.5,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,928bec06
+902,Pavel Šulc,FW,cz Czechia,25,1.fr Lyon,2000,3,2,189,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e9b893af
+903,Kamaldeen Sulemana,MFFW,gh Ghana,24,1.us Atlanta Utd,2002,2,2,127,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a62f8bf1
+904,Crysencio Summerville,FW,nl Netherlands,24,1.eng West Ham,2001,4,2,253,2.8,2,2,4,2,0,0,1,0,0.71,0.71,1.42,0.71,1.42,Matches,df04eb4b
+905,Ivan Šunjić,MF,ba Bosnia–Herz,29,1.cy Pafos FC,1996,4,3,196,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e18098de
+906,Finn Surman,DF,nz New Zealand,22,1.us Portland Timbers,2003,3,3,270,3.0,1,0,1,1,0,0,0,0,0.33,0.00,0.33,0.33,0.33,Matches,016e419b
+907,Josip Šutalo,DF,hr Croatia,26,1.nl Ajax,2000,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,33a6a650
+908,Junnosuke Suzuki,DF,jp Japan,22,1.dk FC Copenhagen,2003,2,0,43,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,77428b1e
+909,Yuito Suzuki,FWMF,jp Japan,24,1.de Freiburg,2001,1,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c25a7a2a
+910,Zion Suzuki,GK,jp Japan,23,1.it Parma,2002,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,51e1f4f5
+911,Mattias Svanberg,MF,se Sweden,27,1.de Wolfsburg,1999,2,0,16,0.2,1,0,1,1,0,0,0,0,5.63,0.00,5.63,5.63,5.63,Matches,92d83c27
+912,Daniel Svensson,DF,se Sweden,24,1.de Dortmund,2002,3,1,98,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,124c9382
+913,Alexander Sørloth,FW,no Norway,30,1.es Atlético Madrid,1995,5,5,337,3.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e92cd3f7
+914,Musa Al-Taamari,FW,jo Jordan,29,1.fr Rennes,1997,3,2,215,2.4,1,1,2,1,0,0,0,0,0.42,0.42,0.84,0.42,0.84,Matches,f15f8b2b
+915,Haris Tabaković,FW,ba Bosnia–Herz,31,2.de Schalke 04,1994,1,0,16,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,723b19c7
+916,Lee Tae-seok,MF,kr Korea Republic,23,1.at Austria Wien,2002,2,2,113,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,32257cce
+917,Nicolás Tagliafico,DF,ar Argentina,33,1.fr Lyon,1992,7,5,476,5.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f0661424
+918,Jonathan Tah,DF,de Germany,30,1.de Bayern Munich,1996,4,4,372,4.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,bd142efb
+919,Benjamin Tahirovic,MF,ba Bosnia–Herz,23,1.dk Brøndby,2003,4,2,237,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,eb3022c3
+920,Zaid Tahseen,DF,iq Iraq,25,1.uz Pakhtakor Tashkent FK,2001,2,2,149,1.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,f3380f7e
+921,Chemsdine Talbi,MF,ma Morocco,21,1.eng Sunderland,2005,5,1,179,2.0,0,1,1,0,0,0,0,0,0.00,0.50,0.50,0.00,0.50,Matches,47ce793b
+922,Montassar Talbi,DF,tn Tunisia,28,1.fr Lorient,1998,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a4a44eb0
+923,Hassan Al Tambakti,DF,sa Saudi Arabia,27,1.sa Al-Hilal,1999,3,3,212,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6d78c320
+924,Ao Tanaka,MF,jp Japan,27,1.eng Leeds United,1998,3,2,193,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1d36d6b6
+925,Shogo Taniguchi,DF,jp Japan,34,1.be Sint-Truiden,1991,3,2,232,2.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,828a9c47
+926,Mehdi Taremi,FW,ir IR Iran,33,1.gr Olympiacos,1992,3,3,259,2.9,0,0,0,0,0,1,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4c2a5d34
+927,Aurélien Tchouaméni,MF,fr France,26,1.es Real Madrid,2000,4,4,360,4.0,0,1,1,0,0,0,1,0,0.00,0.25,0.25,0.00,0.25,Matches,4f255115
+928,Arthur Theate,DF,be Belgium,26,1.de Frankfurt,2000,3,2,228,2.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,df8d6029
+929,Igor Thiago,FW,br Brazil,24,1.eng Brentford,2001,1,1,61,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,dc45ac24
+930,Malick Thiaw,DFMF,de Germany,24,1.eng Newcastle,2001,2,0,42,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ff5ea0bf
+931,Ryan Thomas,MF,nz New Zealand,31,1.nl Zwolle,1994,3,1,83,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,95efdac2
+932,Brandon Thomas-Asante,FWMF,gh Ghana,27,2.eng Coventry City,1998,2,0,53,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,fb152f96
+933,Morten Thorsby,MF,no Norway,30,1.it Cremonese,1996,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d1b49282
+934,Kristian Thorstvedt,MF,no Norway,27,1.it Sassuolo,1999,2,1,63,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,76ff8d0d
+935,Marcus Thuram,FWMF,fr France,28,1.it Inter,1997,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6f8cd6d0
+936,Youri Tielemans,MF,be Belgium,29,1.eng Aston Villa,1997,5,5,474,5.3,2,0,2,1,1,1,0,0,0.38,0.00,0.38,0.19,0.19,Matches,56f7a928
+937,Kieran Tierney,MF,sct Scotland,29,1.sct Celtic,1997,2,1,104,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,fce2302c
+938,Guus Til,FWMF,nl Netherlands,28,1.nl PSV,1997,1,0,32,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6e44569a
+939,Malik Tillman,MF,us USA,24,1.de Leverkusen,2002,5,4,356,4.0,2,1,3,2,0,0,1,0,0.51,0.25,0.76,0.51,0.76,Matches,a5420709
+940,Quinten Timber,MF,nl Netherlands,24,1.fr Marseille,2001,2,0,55,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,803e7aca
+941,Takehiro Tomiyasu,DF,jp Japan,27,1.nl Ajax,1998,3,2,184,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b3af9be1
+942,Ivan Toney,FW,eng England,30,1.sa Al-Ahli,1996,2,1,79,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e09f279b
+943,Mehdi Torabi,MF,ir IR Iran,31,1.ir Tractor,1994,1,0,25,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,74567feb
+944,Félix Torres Caicedo,DF,ec Ecuador,29,1.br Internacional,1997,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c0a8860f
+945,Ferran Torres,FW,es Spain,26,1.es Barcelona,2000,8,1,288,3.2,1,1,2,1,0,0,1,0,0.31,0.31,0.62,0.31,0.62,Matches,9e1035f8
+946,Sebastian Tounekti,FW,tn Tunisia,23,1.sct Celtic,2002,3,1,84,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,584fee1f
+947,Bazoumana Touré,MF,ci Côte d'Ivoire,20,1.de Hoffenheim,2006,3,1,80,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,93945a50
+948,Mo Touré,FW,au Australia,22,2.eng Norwich City,2004,3,2,165,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8ac64b4e
+949,Kai Trewin,DFMF,au Australia,25,1.us NYCFC,2001,1,0,75,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1ab3d134
+950,Trézéguet,MF,eg Egypt,31,1.eg Al Ahly,1994,4,1,164,1.8,1,1,2,1,0,0,0,0,0.55,0.55,1.10,0.55,1.10,Matches,3ae14ed1
+951,Francisco Trincão,FWMF,pt Portugal,26,1.pt Sporting CP,1999,1,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,77e39b04
+952,Leandro Trossard,MFFW,be Belgium,31,1.eng Arsenal,1994,6,6,506,5.6,2,2,4,2,0,0,0,0,0.36,0.36,0.71,0.36,0.71,Matches,38ceb24a
+953,Auston Trusty,DF,us USA,27,1.sct Celtic,1998,2,1,101,1.1,1,0,1,1,0,0,0,0,0.89,0.00,0.89,0.89,0.89,Matches,cddf767b
+954,Axel Tuanzebe,DF,cd Congo DR,28,1.eng Burnley,1997,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2baec6ce
+955,Matt Turner,GK,us USA,31,1.us NE Revolution,1994,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4a51ba65
+956,Ayase Ueda,FW,jp Japan,27,1.nl Feyenoord,1998,4,4,321,3.6,2,1,3,2,0,0,0,0,0.56,0.28,0.84,0.56,0.84,Matches,c0295327
+957,Manuel Ugarte,MF,uy Uruguay,25,1.eng Manchester Utd,2001,3,3,184,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c9817014
+958,Deniz Undav,FW,de Germany,29,1.de Stuttgart,1996,4,1,151,1.7,3,2,5,3,0,0,0,0,1.79,1.19,2.98,1.79,2.98,Matches,dd549382
+959,Dayot Upamecano,DF,fr France,27,1.de Bayern Munich,1998,8,7,660,7.3,0,1,1,0,0,0,0,0,0.00,0.14,0.14,0.00,0.14,Matches,d248cd8f
+960,Jakhongir Urozov,DF,uz Uzbekistan,22,1.uz FK Dinamo Samarqand,2004,2,1,95,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,71210bed
+961,Oston Urunov,MF,uz Uzbekistan,25,1.ir Persepolis,2000,2,1,63,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,56521adf
+962,Can Uzun,MF,tr Türkiye,20,1.de Frankfurt,2005,2,0,38,0.4,0,1,1,0,0,0,0,0,0.00,2.37,2.37,0.00,2.37,Matches,1d0b134a
+963,Enner Valencia,FW,ec Ecuador,36,1.mx Pachuca,1989,4,4,287,3.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,fb485406
+964,Yan Valery,DF,tn Tunisia,27,1.ch Young Boys,1999,3,3,251,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,531a4aa8
+965,Federico Valverde,MF,uy Uruguay,27,1.es Real Madrid,1998,3,3,236,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0959c2a2
+966,Virgil van Dijk,DF,nl Netherlands,34,1.eng Liverpool,1991,4,4,390,4.3,1,1,2,1,0,0,0,0,0.23,0.23,0.46,0.23,0.46,Matches,e06683ca
+967,Hans Vanaken,MF,be Belgium,33,1.be Club Brugge,1992,6,3,319,3.5,1,2,3,1,0,0,0,0,0.28,0.56,0.85,0.28,0.85,Matches,392a7aea
+968,Guillermo Varela,DF,uy Uruguay,33,1.br Flamengo,1993,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,5c961282
+969,Hélio Varela,FW,cv Cabo Verde,24,1.il Maccabi Tel Aviv,2002,3,0,104,1.2,1,0,1,1,0,0,0,0,0.87,0.00,0.87,0.87,0.87,Matches,91c99fec
+970,Camilo Vargas,GK,co Colombia,37,1.mx Atlas,1989,5,5,480,5.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,004e3d0f
+971,Obed Vargas,MF,mx Mexico,20,1.es Atlético Madrid,2005,3,0,66,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,9cc1fde4
+972,Ruben Vargas,MF,ch Switzerland,27,1.es Sevilla,1998,6,3,284,3.2,2,1,3,2,0,0,0,0,0.63,0.32,0.95,0.63,0.95,Matches,6ecbddf6
+973,Nikola Vasilj,GK,ba Bosnia–Herz,30,1.de St Pauli,1995,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f038585f
+974,Johan Vásquez,DF,mx Mexico,27,1.it Genoa,1998,4,4,360,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,5eaed77a
+975,Alexis Vega,FWMF,mx Mexico,28,1.mx Toluca,1997,1,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f40f4c38
+976,Renato Veiga,DF,pt Portugal,22,1.es Villarreal,2003,5,5,450,5.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,fc8fcbd1
+977,Gustavo Velásquez,DF,py Paraguay,35,1.py Cerro Porteño,1991,5,2,246,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b99b4cf5
+978,Nishan Velupillay,MF,au Australia,25,1.au Melb. Victory,2001,2,1,75,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,40cb6b33
+979,Micky van de Ven,DFMF,nl Netherlands,25,1.eng Tottenham,2001,3,3,265,2.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,8fe2a392
+980,Bart Verbruggen,GK,nl Netherlands,23,1.eng Brighton,2002,4,4,390,4.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,cf134113
+981,Matías Viña,DF,uy Uruguay,28,1.br Flamengo,1997,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,08eb3b58
+982,Federico Viñas,FW,uy Uruguay,27,1.es Oviedo,1998,3,2,192,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d30c7094
+983,Denis Višinský,FW,cz Czechia,23,1.cz Viktoria Plzeň,2003,1,1,55,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d5aac0e9
+984,Pedro Vite,MF,ec Ecuador,24,1.mx UNAM,2002,4,4,360,4.0,0,1,1,0,0,0,0,0,0.00,0.25,0.25,0.00,0.25,Matches,9c146b36
+985,Vitinha,MF,pt Portugal,26,1.fr PSG,2000,5,5,376,4.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,3b029691
+986,Nikola Vlašić,MF,hr Croatia,28,1.it Torino,1997,3,2,189,2.1,1,0,1,1,0,0,0,0,0.48,0.00,0.48,0.48,0.48,Matches,aa8e289e
+987,Cristian Volpato,MF,au Australia,22,1.it Sassuolo,2003,3,2,160,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,72f87f25
+988,Vozinha,GK,cv Cabo Verde,40,2.pt Chaves,1986,4,4,390,4.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,dc04ac24
+989,Francis de Vries,DF,nz New Zealand,31,1.au Auckland FC,1994,2,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,90a63dda
+990,Luka Vušković,DF,hr Croatia,19,1.de Hamburger SV,2007,1,1,65,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,fd6bdbce
+991,Elye Wahi,FW,ci Côte d'Ivoire,23,1.fr Nice,2003,3,1,110,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0d7b6576
+992,Aaron Wan-Bissaka,DF,cd Congo DR,28,1.eng West Ham,1997,4,4,354,3.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,9e525177
+993,Paul Wanner,MF,at Austria,20,1.nl PSV,2005,4,2,234,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,cb64672e
+994,Tsuyoshi Watanabe,DF,jp Japan,29,1.nl Feyenoord,1997,2,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d5f5955a
+995,Cecilio Waterman,FW,pa Panama,35,1.cl U Concepción,1991,2,1,76,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ddd5637f
+996,Ollie Watkins,FWMF,eng England,30,1.eng Aston Villa,1995,2,0,52,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,aed3a70f
+997,Timothy Weah,MF,us USA,26,1.fr Marseille,2000,2,1,76,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8eec784d
+998,Wout Weghorst,FW,nl Netherlands,33,1.nl Ajax,1992,1,0,50,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c4e87b8b
+999,Jacob Widell Zetterström,GK,se Sweden,27,2.eng Derby County,1998,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ac5120d8
+1000,Silvan Widmer,DF,ch Switzerland,33,1.de Mainz 05,1993,5,1,175,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f68b64fc
+1001,Iñaki Williams,MFFW,gh Ghana,31,1.es Athletic Club,1994,2,2,126,1.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,6a99e0b1
+1002,Nico Williams,MF,es Spain,23,1.es Athletic Club,2002,6,0,113,1.3,0,1,1,0,0,0,0,0,0.00,0.80,0.80,0.00,0.80,Matches,afdc14d7
+1003,Ronwen Williams,GK,za South Africa,34,1.za Sundowns,1992,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a66cc153
+1004,Patrick Wimmer,FWMF,at Austria,25,1.de Wolfsburg,2001,2,0,21,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,cb11b429
+1005,Florian Wirtz,MF,de Germany,23,1.eng Liverpool,2003,4,4,361,4.0,0,3,3,0,0,0,0,0,0.00,0.75,0.75,0.00,0.75,Matches,e7fcf289
+1006,Yoane Wissa,FW,cd Congo DR,29,1.eng Newcastle,1996,4,4,360,4.0,3,0,3,2,1,1,0,0,0.75,0.00,0.75,0.50,0.50,Matches,2500cef9
+1007,Axel Witsel,DFMF,be Belgium,37,1.es Girona,1989,2,0,33,0.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,5dfc6ad5
+1008,Nick Woltemade,FWMF,de Germany,24,1.eng Newcastle,2002,1,0,33,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,7ca196eb
+1009,Chris Wood,FW,nz New Zealand,34,1.eng Nottingham,1991,3,3,270,3.0,0,2,2,0,0,0,0,0,0.00,0.67,0.67,0.00,0.67,Matches,4e9a0555
+1010,Haji Wright,FWMF,us USA,28,2.eng Coventry City,1998,2,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,91cd37b7
+1011,Granit Xhaka,MF,ch Switzerland,33,1.eng Sunderland,1992,6,6,600,6.7,1,0,1,0,1,1,2,0,0.15,0.00,0.15,0.00,0.00,Matches,e61b8aee
+1012,Kevin Yakob,MF,iq Iraq,25,1.dk AGF,2000,1,0,24,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,18d3b8df
+1013,Lamine Yamal,MFFW,es Spain,18,1.es Barcelona,2007,8,7,614,6.8,1,0,1,1,0,0,0,0,0.15,0.00,0.15,0.15,0.15,Matches,82ec26c1
+1014,Yannick,MF,cv Cabo Verde,30,2.pt Farense,1995,2,0,32,0.4,0,1,1,0,0,0,0,0,0.00,2.81,2.81,0.00,2.81,Matches,6246aa55
+1015,Gessime Yassine,MF,ma Morocco,20,1.fr Strasbourg,2005,3,0,80,0.9,1,0,1,1,0,0,0,0,1.13,0.00,1.13,1.13,1.13,Matches,f5ccae19
+1016,John Yeboah,MF,ec Ecuador,25,2.it Venezia,2000,4,4,311,3.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8dfdc6c3
+1017,Tete Yengi,FW,au Australia,25,1.jp Machida Zelvia,2000,2,0,24,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1c215c70
+1018,Kenan Yıldız,MF,tr Türkiye,21,1.it Juventus,2005,3,2,218,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d8cda243
+1019,Caleb Yirenkyi,MF,gh Ghana,20,1.dk Nordsjælland,2006,4,3,264,2.9,1,0,1,1,0,0,2,0,0.34,0.00,0.34,0.34,0.34,Matches,d40ce7b0
+1020,Seol Young-woo,MF,kr Korea Republic,27,1.rs Red Star,1998,3,3,250,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8e577e1d
+1021,Manaf Younis,DF,iq Iraq,29,1.iq Al-Shorta,1996,1,0,75,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b798826e
+1022,Aria Yousefi,MF,ir IR Iran,24,1.ir Sepahan,2002,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,fd069512
+1023,Ali Yousif,FW,iq Iraq,30,1.iq Al-Talaba,1996,1,0,33,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,943fd50a
+1024,İsmail Yüksek,MF,tr Türkiye,27,1.tr Fenerbahçe,1999,2,2,139,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6c5af908
+1025,Utkir Yusupov,GK,uz Uzbekistan,35,1.uz Navbahor,1991,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,31caffaf
+1026,Warren Zaïre-Emery,MF,fr France,20,1.fr PSG,2006,2,1,110,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6b9960cf
+1027,Denis Zakaria,DF,ch Switzerland,29,1.fr Monaco,1996,4,4,357,4.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,384d58d9
+1028,Jaroslav Zelený,MF,cz Czechia,33,1.cz Sparta Prague,1992,2,1,126,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,bc647827
+1029,Alejandro Zendejas,FWMF,us USA,28,1.mx América,1998,1,0,14,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d717b80e
+1030,Besfort Zeneli,MF,se Sweden,23,1.be Union SG,2002,2,0,60,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6be253bf
+1031,Ramiz Zerrouki,MF,dz Algeria,28,1.nl Twente,1998,3,2,111,1.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,c762b1a6
+1032,Luca Zidane,GK,dz Algeria,28,2.es Granada,1998,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c818c4d9
+1033,Mostafa Ziko,FWMF,eg Egypt,29,1.eg Pyramids FC,1997,5,5,370,4.1,2,1,3,2,0,0,0,0,0.49,0.24,0.73,0.49,0.73,Matches,68ff8437
+1034,David Zima,DF,cz Czechia,25,1.cz Slavia Prague,2000,1,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,acf7e795
+1035,Zizo,MF,eg Egypt,30,1.eg Al Ahly,1996,4,0,56,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c6415ba9
+1036,Martín Zubimendi,MF,es Spain,27,1.eng Arsenal,1999,1,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,3ee0dd59
+1037,Themba Zwane,FWMF,za South Africa,36,1.za Sundowns,1989,1,0,23,0.3,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,c6f21aa8
+1038,Martin Ødegaard,MF,no Norway,27,1.eng Arsenal,1998,5,5,470,5.2,0,4,4,0,0,0,0,0,0.00,0.77,0.77,0.00,0.77,Matches,79300479
+1039,Leo Østigård,DF,no Norway,26,1.it Genoa,1999,5,1,146,1.6,1,0,1,1,0,0,0,0,0.62,0.00,0.62,0.62,0.62,Matches,b35a7399

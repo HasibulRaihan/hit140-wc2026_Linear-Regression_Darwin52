@@ -1,0 +1,7 @@
+model,n_variables,MAE,MSE,RMSE,RMSE_normalised,R2_test,R2_train,adj_R2_train
+Baseline (predict training mean),0,1.0989,1.7419,1.3198,0.1885,-0.0428,,
+Linear regression (8 variables),8,0.9717,1.6145,1.2706,0.1815,0.0335,0.3376,0.2916
+Using log1p own goals p/m,8,0.9731,1.6295,1.2765,0.1824,0.0245,0.3362,0.29
+Collinearity step: removed own_goals_per_match_before,7,0.9783,1.6537,1.286,0.1837,0.0101,0.3357,0.2956
+z-score standardised,8,0.9717,1.6145,1.2706,0.1815,0.0335,0.3376,0.2916
+Yeo-Johnson transformed,8,0.9843,1.6403,1.2807,0.183,0.0181,0.3532,0.3082
