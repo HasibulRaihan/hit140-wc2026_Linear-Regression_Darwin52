@@ -1,0 +1,5 @@
+model,RMSE,MAE,R2
+SVR (RBF),1.256,0.931,0.365
+Random Forest,1.288,1.023,0.332
+Linear regression,1.328,1.046,0.29
+Baseline (mean),1.627,1.344,-0.066

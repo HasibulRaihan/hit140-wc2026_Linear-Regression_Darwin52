@@ -1,0 +1,105 @@
+﻿match_id,date,team_a,team_b,actual_goal_diff,predicted_loo,error_loo,predicted_winner,actual_winner,winner_correct
+1,2026-06-11,Mexico,South Africa,2,2.72,-0.72,Mexico,Mexico,True
+2,2026-06-11,South Korea,Czech Republic,1,-0.08,1.08,Draw,South Korea,False
+3,2026-06-12,Canada,Bosnia and Herzegovina,0,1.61,-1.61,Canada,Draw,False
+4,2026-06-12,United States,Paraguay,3,1.25,1.75,United States,United States,True
+5,2026-06-13,Australia,Turkey,2,-1.0,3.0,Turkey,Australia,False
+6,2026-06-13,Brazil,Morocco,0,0.36,-0.36,Brazil,Draw,False
+7,2026-06-13,Haiti,Scotland,-1,-0.9,-0.1,Scotland,Scotland,True
+8,2026-06-13,Qatar,Switzerland,0,-1.99,1.99,Switzerland,Draw,False
+9,2026-06-14,Germany,Curaçao,6,2.99,3.01,Germany,Germany,True
+10,2026-06-14,Ivory Coast,Ecuador,1,0.35,0.65,Ivory Coast,Ivory Coast,True
+11,2026-06-14,Netherlands,Japan,0,0.84,-0.84,Netherlands,Draw,False
+12,2026-06-14,Sweden,Tunisia,4,1.06,2.94,Sweden,Sweden,True
+13,2026-06-15,Belgium,Egypt,0,1.77,-1.77,Belgium,Draw,False
+14,2026-06-15,Iran,New Zealand,0,1.06,-1.06,Iran,Draw,False
+15,2026-06-15,Saudi Arabia,Uruguay,0,-1.98,1.98,Uruguay,Draw,False
+16,2026-06-15,Spain,Cape Verde,0,3.27,-3.27,Spain,Draw,False
+17,2026-06-16,Argentina,Algeria,3,1.53,1.47,Argentina,Argentina,True
+18,2026-06-16,Austria,Jordan,2,2.22,-0.22,Austria,Austria,True
+19,2026-06-16,France,Senegal,2,1.03,0.97,France,France,True
+20,2026-06-16,Iraq,Norway,-3,-2.13,-0.87,Norway,Norway,True
+21,2026-06-17,England,Croatia,2,1.27,0.73,England,England,True
+22,2026-06-17,Ghana,Panama,1,0.71,0.29,Ghana,Ghana,True
+23,2026-06-17,Portugal,DR Congo,0,1.72,-1.72,Portugal,Draw,False
+24,2026-06-17,Uzbekistan,Colombia,-2,-0.8,-1.2,Colombia,Colombia,True
+25,2026-06-18,Canada,Qatar,6,1.89,4.11,Canada,Canada,True
+26,2026-06-18,Czech Republic,South Africa,0,1.21,-1.21,Czech Republic,Draw,False
+27,2026-06-18,Mexico,South Korea,1,1.89,-0.89,Mexico,Mexico,True
+28,2026-06-18,Switzerland,Bosnia and Herzegovina,3,0.99,2.01,Switzerland,Switzerland,True
+29,2026-06-19,Brazil,Haiti,3,2.63,0.37,Brazil,Brazil,True
+30,2026-06-19,Scotland,Morocco,-1,-1.44,0.44,Morocco,Morocco,True
+31,2026-06-19,Turkey,Paraguay,-1,0.81,-1.81,Turkey,Paraguay,False
+32,2026-06-19,United States,Australia,2,1.59,0.41,United States,United States,True
+33,2026-06-20,Ecuador,Curaçao,0,1.59,-1.59,Ecuador,Draw,False
+34,2026-06-20,Germany,Ivory Coast,1,0.4,0.6,Germany,Germany,True
+35,2026-06-20,Netherlands,Sweden,4,1.55,2.45,Netherlands,Netherlands,True
+36,2026-06-20,Tunisia,Japan,-4,-0.54,-3.46,Japan,Japan,True
+37,2026-06-21,Belgium,Iran,0,2.77,-2.77,Belgium,Draw,False
+38,2026-06-21,New Zealand,Egypt,-2,-1.44,-0.56,Egypt,Egypt,True
+39,2026-06-21,Spain,Saudi Arabia,4,3.81,0.19,Spain,Spain,True
+40,2026-06-21,Uruguay,Cape Verde,0,1.73,-1.73,Uruguay,Draw,False
+41,2026-06-22,Argentina,Austria,2,1.31,0.69,Argentina,Argentina,True
+42,2026-06-22,France,Iraq,3,2.91,0.09,France,France,True
+43,2026-06-22,Jordan,Algeria,-1,-2.38,1.38,Algeria,Algeria,True
+44,2026-06-22,Norway,Senegal,1,-0.7,1.7,Senegal,Norway,False
+45,2026-06-23,Colombia,DR Congo,1,0.56,0.44,Colombia,Colombia,True
+46,2026-06-23,England,Ghana,0,3.02,-3.02,England,Draw,False
+47,2026-06-23,Panama,Croatia,-1,-2.07,1.07,Croatia,Croatia,True
+48,2026-06-23,Portugal,Uzbekistan,5,1.72,3.28,Portugal,Portugal,True
+49,2026-06-24,Bosnia and Herzegovina,Qatar,2,1.08,0.92,Bosnia and Herzegovina,Bosnia and Herzegovina,True
+50,2026-06-24,Canada,Switzerland,-1,0.4,-1.4,Canada,Switzerland,False
+51,2026-06-24,Mexico,Czech Republic,3,1.11,1.89,Mexico,Mexico,True
+52,2026-06-24,Morocco,Haiti,2,2.33,-0.33,Morocco,Morocco,True
+53,2026-06-24,Scotland,Brazil,-3,-1.02,-1.98,Brazil,Brazil,True
+54,2026-06-24,South Africa,South Korea,1,-0.62,1.62,South Korea,South Africa,False
+55,2026-06-25,Curaçao,Ivory Coast,-2,-1.59,-0.41,Ivory Coast,Ivory Coast,True
+56,2026-06-25,Ecuador,Germany,1,-0.84,1.84,Germany,Ecuador,False
+57,2026-06-25,Japan,Sweden,0,0.44,-0.44,Japan,Draw,False
+58,2026-06-25,Paraguay,Australia,0,0.67,-0.67,Paraguay,Draw,False
+59,2026-06-25,Tunisia,Netherlands,-2,-1.07,-0.93,Netherlands,Netherlands,True
+60,2026-06-25,United States,Turkey,-1,0.52,-1.52,United States,Turkey,False
+61,2026-06-26,Cape Verde,Saudi Arabia,0,0.36,-0.36,Cape Verde,Draw,False
+62,2026-06-26,Egypt,Iran,0,0.59,-0.59,Egypt,Draw,False
+63,2026-06-26,New Zealand,Belgium,-4,-2.97,-1.03,Belgium,Belgium,True
+64,2026-06-26,Norway,France,-3,-0.31,-2.69,France,France,True
+65,2026-06-26,Senegal,Iraq,5,2.23,2.77,Senegal,Senegal,True
+66,2026-06-26,Uruguay,Spain,-1,-1.29,0.29,Spain,Spain,True
+67,2026-06-27,Algeria,Austria,0,0.15,-0.15,Draw,Draw,True
+68,2026-06-27,Colombia,Portugal,0,-0.6,0.6,Portugal,Draw,False
+69,2026-06-27,Croatia,Ghana,1,1.84,-0.84,Croatia,Croatia,True
+70,2026-06-27,DR Congo,Uzbekistan,2,-0.06,2.06,Draw,DR Congo,False
+71,2026-06-27,Jordan,Argentina,-2,-3.1,1.1,Argentina,Argentina,True
+72,2026-06-27,Panama,England,-2,-2.99,0.99,England,England,True
+73,2026-06-28,South Africa,Canada,-1,-0.61,-0.39,Canada,Canada,True
+74,2026-06-29,Brazil,Japan,1,0.91,0.09,Brazil,Brazil,True
+75,2026-06-29,Germany,Paraguay,0,1.62,-1.62,Germany,Draw,False
+76,2026-06-29,Netherlands,Morocco,0,-0.1,0.1,Draw,Draw,True
+77,2026-06-30,France,Sweden,3,1.39,1.61,France,France,True
+78,2026-06-30,Ivory Coast,Norway,-1,-0.43,-0.57,Norway,Norway,True
+79,2026-06-30,Mexico,Ecuador,2,1.1,0.9,Mexico,Mexico,True
+80,2026-07-01,Belgium,Senegal,1,0.8,0.2,Belgium,Belgium,True
+81,2026-07-01,England,DR Congo,1,2.33,-1.33,England,England,True
+82,2026-07-01,United States,Bosnia and Herzegovina,2,1.16,0.84,United States,United States,True
+83,2026-07-02,Portugal,Croatia,1,0.6,0.4,Portugal,Portugal,True
+84,2026-07-02,Spain,Austria,3,1.33,1.67,Spain,Spain,True
+85,2026-07-02,Switzerland,Algeria,2,-0.12,2.12,Draw,Switzerland,False
+86,2026-07-03,Argentina,Cape Verde,1,2.95,-1.95,Argentina,Argentina,True
+87,2026-07-03,Australia,Egypt,0,-0.09,0.09,Draw,Draw,True
+88,2026-07-03,Colombia,Ghana,1,1.31,-0.31,Colombia,Colombia,True
+89,2026-07-04,Canada,Morocco,-3,-1.15,-1.85,Morocco,Morocco,True
+90,2026-07-04,Paraguay,France,-1,-1.45,0.45,France,France,True
+91,2026-07-05,Brazil,Norway,-1,0.42,-1.42,Brazil,Norway,False
+92,2026-07-05,Mexico,England,-1,-0.5,-0.5,England,England,True
+93,2026-07-06,Portugal,Spain,-1,-0.43,-0.57,Spain,Spain,True
+94,2026-07-06,United States,Belgium,-3,0.14,-3.14,Draw,Belgium,False
+95,2026-07-07,Argentina,Egypt,1,2.12,-1.12,Argentina,Argentina,True
+96,2026-07-07,Switzerland,Colombia,0,0.14,-0.14,Draw,Draw,True
+97,2026-07-09,France,Morocco,2,0.42,1.58,France,France,True
+98,2026-07-10,Spain,Belgium,1,0.65,0.35,Spain,Spain,True
+99,2026-07-11,Argentina,Switzerland,2,1.36,0.64,Argentina,Argentina,True
+100,2026-07-11,Norway,England,-1,-0.8,-0.2,England,England,True
+101,2026-07-14,France,Spain,-2,-0.13,-1.87,Draw,Spain,False
+102,2026-07-15,England,Argentina,-1,0.42,-1.42,England,Argentina,False
+103,2026-07-18,France,England,-2,-0.15,-1.85,Draw,England,False
+104,2026-07-19,Spain,Argentina,1,0.31,0.69,Spain,Spain,True
