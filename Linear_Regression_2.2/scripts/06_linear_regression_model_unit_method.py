@@ -147,8 +147,9 @@ print("    coefficients per +1 SD:\n",
       ols_z.params.drop("const").rename(index=NICE).round(3).to_string())
 
 # ---------- T10: Yeo-Johnson ----------
-dy = df.copy(); dy[X_COLS] = PowerTransformer(method="yeo-johnson").fit_transform(df[X_COLS])
-r_y, *_ = run_sklearn("Yeo-Johnson transformed", X_COLS, dy)
+power = PowerTransformer(method="yeo-johnson")
+r_y, *_ = run_sklearn("Yeo-Johnson transformed", X_COLS, df, transformer=power)
+dy = df.copy(); dy[X_COLS] = power.transform(df[X_COLS].values)
 results.append(r_y)
 fig, ax = plt.subplots(1, 2, figsize=(10, 4)); v = "own_goals_per_match_before"
 ax[0].hist(df[v], bins=12, density=True); ax[0].set_title(f"{v} (original)")
