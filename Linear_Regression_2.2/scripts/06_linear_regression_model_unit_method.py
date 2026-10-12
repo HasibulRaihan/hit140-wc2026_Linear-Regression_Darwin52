@@ -56,10 +56,13 @@ NICE = {"own_mean_squad_age": "own mean squad age", "opp_mean_squad_age": "oppon
 results = []
 
 
-def run_sklearn(name, cols, data):
+def run_sklearn(name, cols, data, transformer=None):
     """Split 60/40, fit, predict, score."""
     x, y = data[cols].values, data[Y].values
     X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=0.4, random_state=0)
+    if transformer is not None:
+        X_train = transformer.fit_transform(X_train)
+        X_test = transformer.transform(X_test)
     model = LinearRegression().fit(X_train, y_train)
     y_pred = model.predict(X_test)
     rmse = math.sqrt(metrics.mean_squared_error(y_test, y_pred))
@@ -135,8 +138,9 @@ print(f"T8  removed {drop}: adj R2 (train) {ols1.rsquared_adj:.3f} -> {ols_nc.rs
       f"| test R2 {r1['R2_test']:.3f} -> {r_nc['R2_test']:.3f}")
 
 # ---------- T9: z-score standardisation ----------
-dz = df.copy(); dz[X_COLS] = StandardScaler().fit_transform(df[X_COLS])
-r_z, _, ols_z, _ = run_sklearn("z-score standardised", X_COLS, dz)
+scaler = StandardScaler()
+r_z, _, ols_z, _ = run_sklearn("z-score standardised", X_COLS, df, transformer=scaler)
+dz = df.copy(); dz[X_COLS] = scaler.transform(df[X_COLS].values)
 results.append(r_z)
 print(f"\nT9  standardised: test R2 {r_z['R2_test']:.3f}")
 print("    coefficients per +1 SD:\n",
