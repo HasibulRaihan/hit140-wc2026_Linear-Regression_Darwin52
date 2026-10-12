@@ -16,6 +16,8 @@ Abishek Rajeshkumar, Rejan Sapkota
 import sys
 from pathlib import Path
 
+from model_config import X_COLS
+
 import numpy as np
 import pandas as pd
 import matplotlib
@@ -31,9 +33,6 @@ except Exception:
 ROOT = Path(__file__).resolve().parent.parent
 F = ROOT / "features"; FIG = ROOT / "figures"; FIG.mkdir(exist_ok=True)
 df = pd.read_csv(F / "final_model_2_2_208_rows.csv")
-X_COLS = ["own_mean_squad_age", "opp_mean_squad_age", "own_big5_share", "opp_big5_share",
-          "own_goals_per_match_before", "opp_conceded_per_match_before",
-          "days_rest", "is_knockout"]
 X, y = df[X_COLS], df.goals_scored
 
 
