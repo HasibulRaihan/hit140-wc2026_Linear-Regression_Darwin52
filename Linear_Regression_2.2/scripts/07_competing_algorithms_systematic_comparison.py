@@ -27,6 +27,7 @@ import warnings
 from pathlib import Path
 
 from model_config import X_COLS
+from model_metrics import regression_metrics
 
 import numpy as np
 import pandas as pd
@@ -124,9 +125,10 @@ def evaluate(fn):
             p = np.asarray(fn(X[tr], y[tr], X[te]), dtype=float)
             pred_all.append(p); true_all.append(y[te])
         p = np.concatenate(pred_all); t = np.concatenate(true_all)
-        rmse.append(np.sqrt(np.mean((t - p) ** 2)))
-        mae.append(np.mean(np.abs(t - p)))
-        r2.append(1 - np.sum((t - p) ** 2) / np.sum((t - t.mean()) ** 2))
+        scores = regression_metrics(t, p)
+        rmse.append(scores["RMSE"])
+        mae.append(scores["MAE"])
+        r2.append(scores["R2"])
         neg.append(np.mean(p < 0) * 100)
     return dict(RMSE=np.mean(rmse), RMSE_sd=np.std(rmse), MAE=np.mean(mae),
                 R2=np.mean(r2), pct_negative_predictions=np.mean(neg),

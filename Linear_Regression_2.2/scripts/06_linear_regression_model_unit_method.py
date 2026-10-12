@@ -17,11 +17,11 @@ Out: features/model_2_2_results.csv, model_2_2_equation.txt,
 
 Abishek Rajeshkumar, Rejan Sapkota
 """
-import math
 import sys
 from pathlib import Path
 
 from model_config import X_COLS
+from model_metrics import regression_metrics
 
 import numpy as np
 import pandas as pd
@@ -31,7 +31,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import statsmodels.api as sm
 from scipy import stats as sps
-from sklearn import metrics
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, PowerTransformer
@@ -64,10 +63,10 @@ def run_sklearn(name, cols, data, transformer=None):
         X_test = transformer.transform(X_test)
     model = LinearRegression().fit(X_train, y_train)
     y_pred = model.predict(X_test)
-    rmse = math.sqrt(metrics.mean_squared_error(y_test, y_pred))
-    out = dict(model=name, n_variables=len(cols), MAE=metrics.mean_absolute_error(y_test, y_pred),
-               MSE=metrics.mean_squared_error(y_test, y_pred), RMSE=rmse,
-               RMSE_normalised=rmse / (y.max() - y.min()), R2_test=metrics.r2_score(y_test, y_pred))
+    scores = regression_metrics(y_test, y_pred)
+    out = dict(model=name, n_variables=len(cols), MAE=scores["MAE"],
+               MSE=scores["MSE"], RMSE=scores["RMSE"],
+               RMSE_normalised=scores["RMSE"] / (y.max() - y.min()), R2_test=scores["R2"])
     ols = sm.OLS(y_train, sm.add_constant(pd.DataFrame(X_train, columns=cols))).fit()
     out["R2_train"] = ols.rsquared; out["adj_R2_train"] = ols.rsquared_adj
     return out, model, ols, (y_test, y_pred)
@@ -77,11 +76,12 @@ def run_sklearn(name, cols, data, transformer=None):
 r1, model, ols1, (y_test, y_pred) = run_sklearn("Linear regression (8 variables)", X_COLS, df)
 X_train, X_test, y_train, _ = train_test_split(df[X_COLS].values, df[Y].values, test_size=0.4, random_state=0)
 yb = np.full(len(y_test), y_train.mean())
+baseline_scores = regression_metrics(y_test, yb)
 base = dict(model="Baseline (predict training mean)", n_variables=0,
-            MAE=metrics.mean_absolute_error(y_test, yb), MSE=metrics.mean_squared_error(y_test, yb),
-            RMSE=math.sqrt(metrics.mean_squared_error(y_test, yb)))
+            MAE=baseline_scores["MAE"], MSE=baseline_scores["MSE"],
+            RMSE=baseline_scores["RMSE"])
 base["RMSE_normalised"] = base["RMSE"] / (df[Y].max() - df[Y].min())
-base["R2_test"] = metrics.r2_score(y_test, yb)
+base["R2_test"] = baseline_scores["R2"]
 results += [base, r1]
 print("T1  train rows:", len(X_train), "test rows:", len(X_test))
 print(pd.DataFrame([base, r1])[["model", "MAE", "MSE", "RMSE", "RMSE_normalised", "R2_test"]].round(3).to_string(index=False))
@@ -161,8 +161,9 @@ rows = []
 for seed in range(200):
     Xtr, Xte, ytr, yte = train_test_split(df[X_COLS].values, df[Y].values, test_size=0.4, random_state=seed)
     p = LinearRegression().fit(Xtr, ytr).predict(Xte)
-    rows.append((math.sqrt(metrics.mean_squared_error(yte, p)), metrics.r2_score(yte, p),
-                 math.sqrt(metrics.mean_squared_error(yte, np.full(len(yte), ytr.mean())))))
+    scores = regression_metrics(yte, p)
+    baseline_scores = regression_metrics(yte, np.full(len(yte), ytr.mean()))
+    rows.append((scores["RMSE"], scores["R2"], baseline_scores["RMSE"]))
 s = np.array(rows).mean(0)
 print(f"\nStability (200 random 60/40 splits): mean RMSE {s[0]:.2f} vs baseline {s[2]:.2f} | mean test R2 {s[1]:.2f}")
 

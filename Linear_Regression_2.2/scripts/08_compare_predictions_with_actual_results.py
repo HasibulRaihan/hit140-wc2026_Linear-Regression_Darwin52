@@ -17,6 +17,7 @@ import sys
 from pathlib import Path
 
 from model_config import X_COLS
+from model_metrics import regression_metrics
 
 import numpy as np
 import pandas as pd
@@ -38,8 +39,8 @@ X, y = df[X_COLS], df.goals_scored
 
 def metrics(name, actual, pred):
     actual, pred = np.asarray(actual, float), np.asarray(pred, float)
-    rmse = np.sqrt(np.mean((actual - pred) ** 2)); mae = np.mean(np.abs(actual - pred))
-    r2 = 1 - np.sum((actual - pred) ** 2) / np.sum((actual - actual.mean()) ** 2)
+    scores = regression_metrics(actual, pred)
+    rmse, mae, r2 = scores["RMSE"], scores["MAE"], scores["R2"]
     within1 = np.mean(np.abs(actual - pred) <= 1)
     ou = np.mean((pred > 1.5) == (actual > 1.5))          # over / under 1.5 goals
     print(f"{name:36s} n={len(actual):3d}  RMSE={rmse:.3f}  MAE={mae:.3f}  R2={r2:+.3f}  "
