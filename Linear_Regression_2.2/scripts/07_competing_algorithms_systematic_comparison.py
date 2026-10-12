@@ -27,6 +27,7 @@ import warnings
 from pathlib import Path
 
 from model_config import X_COLS
+from model_data import load_model_data
 from model_metrics import regression_metrics
 
 import numpy as np
@@ -48,7 +49,7 @@ except Exception:
 
 ROOT = Path(__file__).resolve().parent.parent
 F = ROOT / "features"; FIG = ROOT / "figures"; FIG.mkdir(exist_ok=True)
-df = pd.read_csv(F / "final_model_2_2_208_rows.csv")
+df = load_model_data()
 X = df[X_COLS].values
 y = df.goals_scored.values
 groups = df.match_id.values

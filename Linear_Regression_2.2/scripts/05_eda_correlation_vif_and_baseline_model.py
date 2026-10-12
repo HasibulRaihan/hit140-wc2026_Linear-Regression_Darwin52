@@ -13,6 +13,7 @@ import sys
 from pathlib import Path
 
 from model_config import X_COLS
+from model_data import load_model_data
 
 import numpy as np
 import pandas as pd
@@ -31,7 +32,7 @@ except Exception:
 
 ROOT = Path(__file__).resolve().parent.parent
 F = ROOT / "features"; FIG = ROOT / "figures"; FIG.mkdir(exist_ok=True)
-df = pd.read_csv(F / "final_model_2_2_208_rows.csv")
+df = load_model_data()
 assert len(X_COLS) == 8
 NICE = {"own_mean_squad_age": "own mean squad age", "opp_mean_squad_age": "opponent mean squad age",
         "own_big5_share": "own big-5 squad share", "opp_big5_share": "opponent big-5 squad share",
