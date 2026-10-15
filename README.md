@@ -17,5 +17,7 @@ Build and evaluate a second linear regression model that predicts the number of 
 ## **Unit Information**
 
 Unit: HIT140 — Foundations of Data Science
+
 Assessment: Assessment 2 — Group Project Report (Objective 2)
+
 Institution: Charles Darwin University
