@@ -1,23 +1,24 @@
-# hit140-wc2026_Linear-Regression_Darwin52
-Assessment 3: Group Project Report
+# FIFA World Cup 2026 – Linear Regression Models (Group 52)
 
-## **Overview**
+HIT140 Foundations of Data Science, Assessment 3 (Objective 2), Charles Darwin University
+Group 52: Md Hasibul Raihan, Abishek Rajeshkumar, Sunil Sapkota, Rejan Sapkota
 
-Objective 2
-Your team will perform two related but distinct linear regression tasks as specified below.
+This repository has the Python code and data for our two linear regression models. Both use eight explanatory variables that are known before kickoff. The data comes from the sources provided in the case study, plus a few extra sources where the case-study sites did not have the data. All cleaning, merging, modelling and charts are done in Python.
 
-## **Linear Regression 2.1**
+| Model | Predicts | Rows | Folder |
+|---|---|---|---|
+| Linear Regression 2.1 | Goal difference (Team A − Team B) in a match | 104 | `model_2_1/` |
+| Linear Regression 2.2 | Goals scored by one team in a match | 208 | `model_2_2/` |
 
-Build and evaluate a linear regression model that predicts the goal difference between two opposing teams in FIFA World Cup 2026 matches. You must compile a dataset that comprises 104 rows, each representing an actual match in the FIFA World Cup 2026. Your dataset must include exactly eight (8) explanatory variables (excluding any ID field). You must thoughtfully decide what these explanatory variables would be and then collect their corresponding data.
+## How to run
+1. Install the packages: `pip install -r requirements.txt`
+2. Open the model folder and run the scripts in the `scripts/` folder in number order (01, 02, 03 ...).
+3. Each model folder has `raw/` (data as collected), `clean/` (cleaned CSVs), `features/` (final dataset and results) and `figures/` (charts).
 
-## **Linear Regression 2.2**
-
-Build and evaluate a second linear regression model that predicts the number of goals scored by a team in a single FIFA World Cup 2026 match. You must compile a dataset that comprises 208 rows, each representing a team's statistics for a specific match. Your dataset must include exactly eight (8) explanatory variables (excluding any ID field). You must thoughtfully decide what these explanatory variables would be and then collect their corresponding data.
-
-## **Unit Information**
-
-Unit: HIT140 — Foundations of Data Science
-
-Assessment: Assessment 2 — Group Project Report (Objective 2)
-
-Institution: Charles Darwin University
+## Team 
+| Member |
+|---|
+| Md Hasibul Raihan | 
+| Abishek Rajeshkumar | 
+| Sunil Sapkota | |
+| Rejan Sapkota | |
